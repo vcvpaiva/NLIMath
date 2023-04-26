@@ -1,0 +1,296 @@
+{"sentence": "This yields a quadratic algorithm deciding the equality of diagrams in a free double category.", "concepts": ["'quadratic algorithm'", "'equality'", "'diagrams'", "'free double category'"]}
+{"sentence": "The right adjoint of this Quillen equivalence is the classical Segal's Nerve functor.", "concepts": ["'Quillen equivalence'", "'Segal's Nerve functor'"]}
+{"sentence": "Along the way we prove numerous results showing that the enchilada category is rather strange.", "concepts": ["'enchilada category'"]}
+{"sentence": "Let PreOrd(C) be the category of internal preorders in an exact category C.", "concepts": ["'preorder'", "'exact category'", "'internal'"]}
+{"sentence": "Persistence has proved to be a valuable tool to analyze real world data robustly.", "concepts": ["'persistence'"]}
+{"sentence": "This allows a definition of topological complexity for orbifolds.", "concepts": ["'topological complexity'", "'orbifold'"]}
+{"sentence": "This note shows every Grothendieck topos has such a site.", "concepts": ["'Grothendieck topos'", "'site'"]}
+{"sentence": "On the other hand subcanonical one-way sites are very special.", "concepts": ["'subcanonical one-way sites'"]}
+{"sentence": "A site criterion for petit toposes will probably require subcanonical sites.", "concepts": ["'site criterion'", "'petit topos'", "'subcanonical site'"]}
+{"sentence": "We call such 2-monads property-like.", "concepts": ["'2-monad'", "'property-like'"]}
+{"sentence": "We show that associative coequalizing multiplications suffice and call the resulting structures interpolads.", "concepts": ["'associative'", "'coequalizing'", "'multiplication'", "'interpolad'"]}
+{"sentence": "This property then extends to strong Colimits of sketches.", "concepts": ["'property'", "'strong colimit'", "'sketch'"]}
+{"sentence": "Often used implicitly, the precise statement of this property and its proof appears here.", "concepts": ["'property'", "'proof'"]}
+{"sentence": "However, we provide examples to show that the reflector and coreflector need not coincide.", "concepts": ["'reflector'", "'coreflector'"]}
+{"sentence": "Results on the finiteness of induced crossed modules are proved both algebraically and topologically.", "concepts": ["'finiteness'", "'induced crossed module'", "'algebraically'", "'topologically'"]}
+{"sentence": "Strong promonoidal functors are defined.", "concepts": ["promonoidal functor", "strong promonoidal functor"]}
+{"sentence": "A construction for the free monoidal category on a promonoidal category is provided.", "concepts": ["'monoidal category'", "'promonoidal category'", "'free monoidal category'", "'construction'"]}
+{"sentence": "In this paper we study the lattice of quantic conuclei for orthomudular lattices.", "concepts": ["'lattice'", "'quantic conuclei'", "'orthomudular lattice'"]}
+{"sentence": "We discuss two versions of a conjecture attributed to M. Barr.", "concepts": ["'conjecture'", "'M. Barr'"]}
+{"sentence": "We introduce MD-sketches, which are a particular kind of Finite Sum sketches.", "concepts": ["'MD-sketches'", "'Finite Sum sketches'"]}
+{"sentence": "Two interesting results about MD-sketches are proved.", "concepts": ["'MD-sketch'", "'result'"]}
+{"sentence": "As a corollary, we obtain that equivalence of data-specifications is decidable.", "concepts": ["'data-specification'", "'decidable'"]}
+{"sentence": "Their universal properties can then be derived with standard techniques as used in duality theory.", "concepts": ["'universal property'", "'standard technique'", "'duality theory'"]}
+{"sentence": "When it does, we call the string distributive.", "concepts": ["distributive", "string"]}
+{"sentence": "These provide a new construction of the simplicial 2-category, Delta.", "concepts": ["'simplicial'", "'2-category'", "'Delta'"]}
+{"sentence": "Here we show an analogous description of locally finitely multipresentable categories.", "concepts": ["'locally finitely multipresentable category'"]}
+{"sentence": "In addition, we define and study the appropriate categorical structure underlying the MIX rule.", "concepts": ["'categorical structure'", "'MIX rule'"]}
+{"sentence": "We give the definition in any Gray-category.", "concepts": ["'Gray-category'", "'definition'"]}
+{"sentence": "The concept of algebra is given as an adjunction with invertible counit.", "concepts": ["'algebra'", "'adjunction'", "'invertible counit'"]}
+{"sentence": "We show that these doctrines are instances of more general pseudomonads.", "concepts": ["'pseudomonad'"]}
+{"sentence": "2-crossed complexes are introduced and similar freeness results for these are discussed.", "concepts": ["'crossed complex'", "'freeness'"]}
+{"sentence": "Partial results are given for higher dimensions.", "concepts": ["'higher dimension'"]}
+{"sentence": "Applications to 2-crossed modules and quadratic modules are discussed.", "concepts": ["'2-crossed module'", "'quadratic module'"]}
+{"sentence": "The theory of enriched accessible categories over a suitable base category V is developed.", "concepts": ["'enriched category'", "'accessible category'", "'base category'"]}
+{"sentence": "A particular attention is devoted to enriched locally presentable categories and enriched functors.", "concepts": ["'locally presentable category'", "'enriched locally presentable category'", "'enriched functor'"]}
+{"sentence": "Consequently, an equivariant simplicial version of the Whitehead Theorem is derived.", "concepts": ["'simplicial version'", "'Whitehead Theorem'"]}
+{"sentence": "Some examples are parity c omplexes, pasting schemes and directed complexes.", "concepts": ["'parity complex'", "'pasting scheme'", "'directed complex'"]}
+{"sentence": "This role makes the relationship between projective objects and the tensor product especially critical.", "concepts": ["'projective object'", "'tensor product'"]}
+{"sentence": "Conditions are given under which such a structure interacts appropriately with projective objects.", "concepts": ["'projective object'"]}
+{"sentence": "These examples were not fabricated to illustrate the abstract possibility of misbehavior.", "concepts": ["misbehavior"]}
+{"sentence": "Rather, they are drawn from the literature.", "concepts": ["literature"]}
+{"sentence": "We give an abstract characterization of categories which are localizations of Maltsev varieties.", "concepts": ["'category'", "'Maltsev variety'", "'localization'"]}
+{"sentence": "These results can be applied to characterize localizations of naturally Maltsev varieties.", "concepts": ["'naturally Maltsev variety'", "'localization'"]}
+{"sentence": "Using the Chu-construction, we define a group algebra for topological Hausdorff groups.", "concepts": ["'Chu-construction'", "'group algebra'", "'topological Hausdorff group'"]}
+{"sentence": "Exponentiable spaces are characterized in terms of convergence.", "concepts": ["'exponentiable space'", "'convergence'"]}
+{"sentence": "These isomorphisms must satisfy nine coherence conditions.", "concepts": ["'isomorphism'", "'coherence condition'"]}
+{"sentence": "We define what is a pseudomonad with compatible structure with respect to two given pseudomonads.", "concepts": ["'pseudomonad'", "'compatible structure'"]}
+{"sentence": "This all extends routinely to local presentability with respect to any regular cardinal.", "concepts": ["'local presentability'", "'regular cardinal'"]}
+{"sentence": "A number of examples are considered.", "concepts": ["None (no math concepts are mentioned in this context)"]}
+{"sentence": "The main tool in the new approach is the Chu construction.", "concepts": ["'Chu construction'"]}
+{"sentence": "Finally, we show loop and suspension functors in the pointed case.", "concepts": ["'loop functor'", "'suspension functor'", "'pointed case'"]}
+{"sentence": "The purpose of this paper is to indicate some bicategorical properties of ring theory.", "concepts": ["'bicategorical'", "'ring theory'"]}
+{"sentence": "In this interaction, static modules are analyzed.", "concepts": ["'static module'", "'module'"]}
+{"sentence": "This leads to the notion of strongly protomodular category.", "concepts": ["'strongly protomodular category'"]}
+{"sentence": "The appendix provides the definitions of a braided monoidal bicategory and sylleptic monoidal bicategory.", "concepts": ["'braided monoidal bicategory'", "'sylleptic monoidal bicategory'"]}
+{"sentence": "An application to exact sequences is given.", "concepts": ["'exact sequence'"]}
+{"sentence": "In this paper we show that under slightly stronger assumptions the converse is also true.", "concepts": ["None (no Math concept is mentioned in this sentence)"]}
+{"sentence": "We present some new findings concerning branched covers in topos theory.", "concepts": ["'branched cover'", "'topos theory'"]}
+{"sentence": "Finally, we characterize when certain categories of sheaves are toposes.", "concepts": ["'sheaf'", "'category'", "'topos'"]}
+{"sentence": "We present two other characterizations.", "concepts": ["None"]}
+{"sentence": "A relationship between pseudoepimorphisms and lax epimorphisms is discussed.", "concepts": ["'pseudoepimorphism'", "'lax epimorphism'"]}
+{"sentence": "The construction is performed in two steps.", "concepts": ["'construction'", "'step'"]}
+{"sentence": "First a cartesian closed extension L of CLS is obtained.", "concepts": ["'cartesian closed'", "'extension'", "'CLS'"]}
+{"sentence": "We only treat the branching side.", "concepts": ["branching"]}
+{"sentence": "The 2-category VAR of finitary varieties is not varietal over CAT.", "concepts": ["'2-category'", "'finitary variety'", "'varietal'", "'CAT'"]}
+{"sentence": "An equational hull of VAR w.r.t. all operations is also discussed.", "concepts": ["'equational hull'", "'VAR'", "'operations'"]}
+{"sentence": "We give a self-contained presentation of Batanin's construction that suits our purposes.", "concepts": ["'Batanin's construction'"]}
+{"sentence": "An important example: reflexive coequalizers are sifted colimits.", "concepts": ["'reflexive coequalizer'", "'sifted colimit'"]}
+{"sentence": "Among complete categories, generalized varieties are precisely the varieties.", "concepts": ["'complete category'", "'generalized variety'", "'variety'"]}
+{"sentence": "A feature of a ramification groupoid is that it carries a certain order structure.", "concepts": ["'ramification groupoid'", "'order structure'"]}
+{"sentence": "Our work extends naturally to the braid group on countably many generators.", "concepts": ["'braid group'"]}
+{"sentence": "We show that the two notions are equivalent.", "concepts": ["equivalent", "notion"]}
+{"sentence": "This is simultaneously an extension of Verdier's version of Cech cohomology to homotopy.", "concepts": ["'Verdier'", "'Cech cohomology'", "'homotopy'"]}
+{"sentence": "Exact sequences are a well known notion in homological algebra.", "concepts": ["'exact sequence'", "'homological algebra'"]}
+{"sentence": "As an application, we compare presheaf categories and varieties.", "concepts": ["'presheaf category'", "'variety'"]}
+{"sentence": "The monadic arrows Opmon are then characterized.", "concepts": ["'monadic arrow'", "'Opmon'"]}
+{"sentence": "We call such structures entropic categories.", "concepts": ["'entropic category'"]}
+{"sentence": "We demonstrate the soundness and completeness of our axiomatization with respect to cut-elimination.", "concepts": ["'soundness'", "'completeness'", "'axiomatization'", "'cut-elimination'"]}
+{"sentence": "We then focus on several methods of building entropic categories.", "concepts": ["'entropic category'"]}
+{"sentence": "Several examples are discussed, based first on the notion of a bigroup.", "concepts": ["'bigroup'", "'notion'"]}
+{"sentence": "Finally the Tannaka-Krein reconstruction theorem is extended to the entropic setting.", "concepts": ["'Tannaka-Krein reconstruction theorem'", "'entropic setting'"]}
+{"sentence": "The symbolic and categorical structures are thereby shown to be equivalent.", "concepts": ["'symbolic structure'", "'categorical structure'", "'equivalent'"]}
+{"sentence": "We obtain a characterization of such functors.", "concepts": ["functor"]}
+{"sentence": "A cyclic spectrum is constructed for Boolean flows.", "concepts": ["'cyclic spectrum'", "'Boolean flow'"]}
+{"sentence": "Examples include attractive fixpoints, repulsive fixpoints, strange attractors and the logistic equation.", "concepts": ["'attractive fixpoint'", "'repulsive fixpoint'", "'strange attractor'", "'logistic equation'"]}
+{"sentence": "The primitive symbolic and categorical structures are extended to make their types sober.", "concepts": ["'symbolic structure'", "'categorical structure'", "'primitive structure'", "'type'", "'sober'"]}
+{"sentence": "A more technical characterization of axiomatizable classes in geometric logic is presented.", "concepts": ["'axiomatizable classes'", "'geometric logic'"]}
+{"sentence": "We restrict our study to the case of locally partially ordered bases.", "concepts": ["'locally partially ordered bases'"]}
+{"sentence": "We give two applications: sheaves over locales and group actions.", "concepts": ["'sheaf'", "'locale'", "'group action'"]}
+{"sentence": "Hopf formulas for the second and third homology of a Lie algebra are proved.", "concepts": ["'third homology'", "'second homology'", "'Hopf formula'", "'Lie algebra'"]}
+{"sentence": "The construction is based on the geometric notion of thin square.", "concepts": ["'geometric'", "'thin square'"]}
+{"sentence": "The definitions can be read independently.", "concepts": ["definitions'"]}
+{"sentence": "It is shown that every codescent morphism of groups is effective.", "concepts": ["'codescent morphism'", "'group'", "'effective'"]}
+{"sentence": "We generalize Dress and M\u00c3\u00bcller's main result in Decomposable functors and the exponential principle.", "concepts": ["'Dress-Muller theorem'", "'decomposable functor'", "'exponential principle'"]}
+{"sentence": "Subsets with this property are called composition-representative.", "concepts": ["composition-representative'"]}
+{"sentence": "This paper studies lax higher dimensional structure over bicategories.", "concepts": ["'lax higher dimensional structure'", "'bicategory'"]}
+{"sentence": "The general notion of a module between two morphisms of bicategories is described.", "concepts": ["'module'", "'morphism'", "'bicategory'"]}
+{"sentence": "The composite of two such modules need not exist.", "concepts": ["module'"]}
+{"sentence": "These modules and their modulations then give rise to a bicategory.", "concepts": ["'module'", "'modulation'", "'bicategory'"]}
+{"sentence": "We give an explicit construction of the category Opetope of opetopes.", "concepts": ["'category'", "'opetope'"]}
+{"sentence": "This result encompasses many known and new examples of quasitopoi.", "concepts": ["'quasitopos'"]}
+{"sentence": "We take some first steps in providing a synthetic theory of distributions.", "concepts": ["'synthetic theory'", "'distributions'"]}
+{"sentence": "We introduce various notions of partial topos, i.e. `topos without terminal object'.", "concepts": ["'partial topos'", "'topos'", "'terminal object'"]}
+{"sentence": "Examples for the weaker notions are local homeomorphisms and discrete fibrations.", "concepts": ["'local homeomorphism'", "'discrete fibration'"]}
+{"sentence": "In such a framework, the globular nerve always satisfies the Kan condition.", "concepts": ["'globular nerve'", "'Kan condition'"]}
+{"sentence": "We give a categorical discussion of such results.", "concepts": ["'categorical discussion'"]}
+{"sentence": "Another is to make clear which parts of the proofs of such results are formal.", "concepts": ["proof", "formal"]}
+{"sentence": "In this case we recover the notion of a linear bicategory.", "concepts": ["'linear bicategory'"]}
+{"sentence": "The poly notions of functors, modules and their transformations are introduced as well.", "concepts": ["'functor'", "'module'", "'transformation'"]}
+{"sentence": "These in fact correspond to modules having special properties.", "concepts": ["'module'", "'special properties'"]}
+{"sentence": "In many applications of quasigroups isotopies and homotopies are more important than isomorphisms and homomorphisms.", "concepts": ["'quasigroup'", "'isotopy'", "'homotopy'", "'isomorphism'", "'homomorphism'"]}
+{"sentence": "We prove various results relating it to exponentiation of locales, including the following.", "concepts": ["'exponentiation of locales'"]}
+{"sentence": "Those classes are natural examples of reflective subcategories defined by proper classes of morphisms.", "concepts": ["'reflective subcategory'", "'proper class'", "'morphism'"]}
+{"sentence": "Adamek and Sousa's result follows from ours.", "concepts": ["none"]}
+{"sentence": "The paper develops the previously proposed approach to constructing factorization systems in general categories.", "concepts": ["'factorization system'", "'general category'", "'constructing'"]}
+{"sentence": "The problem of relating a factorization system to a pointed endofunctor is considered.", "concepts": ["'factorization system'", "'pointed endofunctor'"]}
+{"sentence": "Some relevant examples in concrete categories are given.", "concepts": ["concrete category'"]}
+{"sentence": "The symmetric case can easily be recovered.", "concepts": ["'symmetric case'"]}
+{"sentence": "This paper proposes a recursive definition of V-n-categories and their morphisms.", "concepts": ["'recursive definition'", "'V-n-category'", "'morphism'"]}
+{"sentence": "Our result relies heavily on some unpublished work of A. Kock from 1989.", "concepts": ["unpublished work'", "'A. Kock'", "'1989'"]}
+{"sentence": "The required simplicial approximation results for simplicial sets and their proofs are given in full.", "concepts": ["'simplicial approximation'", "'simplicial set'", "'proof'"]}
+{"sentence": "Subdivision behaves like a covering in the context of the techniques displayed here.", "concepts": ["'subdivision'", "'covering'", "'techniques'"]}
+{"sentence": "Several exact sequences, relative to a subfunctor of the identity functor, are obtained.", "concepts": ["'exact sequence'", "'subfunctor'", "'identity functor'"]}
+{"sentence": "The resulting notion of centrality fits into Janelidze and Kelly's theory of central extensions.", "concepts": ["'centrality'", "'central extension'", "'theory'"]}
+{"sentence": "The centre of a monoidal category is a braided monoidal category.", "concepts": ["'monoidal category'", "'braided monoidal category'", "'centre'"]}
+{"sentence": "Monoidal categories are monoidal objects (or pseudomonoids) in the monoidal bicategory of categories.", "concepts": ["'monoidal category'", "'monoidal object'", "'pseudomonoid'", "'monoidal bicategory'", "'category'"]}
+{"sentence": "Some properties and sufficient conditions for existence of the construction are examined.", "concepts": ["'construction'", "'existence'", "'properties'", "'sufficient conditions'"]}
+{"sentence": "Having many corollaries, this was an extremely useful result.", "concepts": ["corollary", "result"]}
+{"sentence": "Moreover, as the authors soon suspected, it specializes a much more general result.", "concepts": ["specialize", "general result"]}
+{"sentence": "We characterize semi-abelian monadic categories and their localizations.", "concepts": ["'semi-abelian monadic category'", "'localization'"]}
+{"sentence": "We add some guiding examples.", "concepts": ["None", "as there is no mention of any math concepts in the context"]}
+{"sentence": "We generalize to an arbitrary variety the von Neumann axiom for a ring.", "concepts": ["'variety'", "'von Neumann axiom'", "'ring'"]}
+{"sentence": "We study its implications on the purity of monomorphisms and the flatness of algebras.", "concepts": ["'purity'", "'monomorphism'", "'flatness'", "'algebra'"]}
+{"sentence": "However, we also present a non-varietor satisfying Birkhoff's Variety Theorem.", "concepts": ["Birkhoff's Variety Theorem'", "'varietor'"]}
+{"sentence": "It turns out that many categorical properties are well behaved under enlargements.", "concepts": ["'categorical property'", "'enlargement'"]}
+{"sentence": "We describe a completion of gms's by Cauchy filters of formal balls.", "concepts": ["'completion'", "'Cauchy filter'", "'formal ball'"]}
+{"sentence": "The completion generalizes the usual one for metric spaces.", "concepts": ["'completion'", "'metric space'"]}
+{"sentence": "Various examples and constructions are given, including finite products.", "concepts": ["'finite product'"]}
+{"sentence": "A precise concept of concrete geometrical category is introduced in an axiomatic way.", "concepts": ["'geometrical category'", "'concrete category'", "'axiomatic'"]}
+{"sentence": "In this article, we present a general construction of such an extension.", "concepts": ["'general construction'", "'extension'"]}
+{"sentence": "These results have recently been generalised to all dimensions by Philip Higgins.", "concepts": ["'dimension'", "'generalise'"]}
+{"sentence": "We give two related universal properties of the span construction.", "concepts": ["'universal property'", "'span construction'"]}
+{"sentence": "The first involves sinister morphisms out of the base category and sinister transformations.", "concepts": ["'morphism'", "'base category'", "'transformation'"]}
+{"sentence": "There are no coherence requirements.", "concepts": ["coherence requirement"]}
+{"sentence": "We describe this semantics incrementally.", "concepts": ["'semantics'"]}
+{"sentence": "Then we look at the universal property required to interpret each type constructor.", "concepts": ["'universal property'", "'type constructor'"]}
+{"sentence": "And we give ways of constructing models from other models.", "concepts": ["'model'", "'constructing models'"]}
+{"sentence": "This conjecture is false, but there is an equational characterization of absolute homology.", "concepts": ["'conjecture'", "'equational characterization'", "'absolute homology'"]}
+{"sentence": "The main theorem comes close to a characterisation of this phenomenon.", "concepts": ["'theorem'", "'characterisation'"]}
+{"sentence": "This work is a contribution to a recent field, Directed Algebraic Topology.", "concepts": ["'Directed Algebraic Topology'"]}
+{"sentence": "This paper constructs models of intuitionistic set theory in suitable categories.", "concepts": ["'set theory'", "'intuitionistic set theory'", "'category'"]}
+{"sentence": "We provide various examples of this situation of a combinatorial nature.", "concepts": ["combinatorial"]}
+{"sentence": "For the elementary case, little more is known.", "concepts": ["'elementary case'"]}
+{"sentence": "Finally, models of these theories are constructed in the category of ideals.", "concepts": ["'category'", "'model'", "'ideal'"]}
+{"sentence": "We discuss holonomy and prove an analogue of the Ambrose-Singer theorem.", "concepts": ["'holonomy'", "'Ambrose-Singer theorem'"]}
+{"sentence": "The main result is now, that such monads form a stack.", "concepts": ["'monad'", "'stack'"]}
+{"sentence": "The equivalence is FOLDS equivalence of the FOLDS-Specifications of the two concepts.", "concepts": ["'FOLDS equivalence'", "'FOLDS-Specifications'"]}
+{"sentence": "A representation theory for (strict) categorical groups is constructed.", "concepts": ["'representation theory'", "'categorical group'"]}
+{"sentence": "Each categorical group determines a monoidal bicategory of representations.", "concepts": ["'categorical group'", "'monoidal bicategory'", "'representation'"]}
+{"sentence": "Typically, these bicategories contain representations which are indecomposable but not irreducible.", "concepts": ["'bicategory'", "'representation'", "'indecomposable'", "'irreducible'"]}
+{"sentence": "A simple example is computed in explicit detail.", "concepts": ["example"]}
+{"sentence": "Universal properties of these constructions are presented.", "concepts": ["'universal property'", "'construction'"]}
+{"sentence": "We then compute the cyclic spectrum of any finitely generated Boolean flow.", "concepts": ["'cyclic spectrum'", "'Boolean flow'", "'finitely generated'"]}
+{"sentence": "Characterization theorems for unitary restriction categories are derived.", "concepts": ["'unitary restriction category'", "'characterization theorem'"]}
+{"sentence": "Let L be an arbitrary orthomodular lattice.", "concepts": ["'orthomodular lattice'"]}
+{"sentence": "The proof of the thin filler conditions uses chain complexes and chain homotopies.", "concepts": ["'thin filler condition'", "'chain complex'", "'chain homotopy'"]}
+{"sentence": "We give a Dialectica-style interpretation of first-order classical affine logic.", "concepts": ["'Dialectica-style interpretation'", "'first-order logic'", "'affine logic'", "'classical logic'"]}
+{"sentence": "The constructions have the same objects, but are rather different in other ways.", "concepts": ["objects'"]}
+{"sentence": "We also point out interesting open problems concerning the Dialectica construction.", "concepts": ["'Dialectica construction'", "'open problem'"]}
+{"sentence": "This view helps to clarify the composition of Chu-spans.", "concepts": ["'Chu-span'", "'composition'"]}
+{"sentence": "Here we introduce collarable (and collared) cospans between topological spaces.", "concepts": ["'cospan'", "'topological space'"]}
+{"sentence": "Nuclei of categories of modules are considered as an example.", "concepts": ["'category of modules'", "'nucleus'"]}
+{"sentence": "We then use these equations to classify operads with coherent unit actions.", "concepts": ["'operad'", "'coherent unit action'"]}
+{"sentence": "We discuss an approach to constructing a weak n-category of cobordisms.", "concepts": ["'weak n-category'", "'cobordism'"]}
+{"sentence": "For general dimensions k and n we indicate what the construction should be.", "concepts": ["'dimensions'", "'construction'"]}
+{"sentence": "We give here a positive answer to this question.", "concepts": ["positive answer'"]}
+{"sentence": "A question was left open: is there more structure yet to be defined?", "concepts": ["'structure'"]}
+{"sentence": "In the process a number of facts about abstract core algebras must be developed.", "concepts": ["'abstract core algebra'"]}
+{"sentence": "The mistaken version is used later in that paper.", "concepts": ["None. The given context does not contain any math concepts."]}
+{"sentence": "The straightforward extension to crossed complexes is also considered.", "concepts": ["'crossed complex'"]}
+{"sentence": "Bicat is the tricategory of bicategories, homomorphisms, pseudonatural transformations, and modifications.", "concepts": ["'bicategory'", "'tricategory'", "'homomorphism'", "'pseudonatural transformation'", "'modification'"]}
+{"sentence": "We show that these two tricategories are not triequivalent.", "concepts": ["'tricategory'", "'triequivalent'"]}
+{"sentence": "It is shown that a cartesian bicategory is a symmetric monoidal bicategory.", "concepts": ["'cartesian bicategory'", "'symmetric monoidal bicategory'"]}
+{"sentence": "Those systems that have a unique solution in every iterative algebra are characterized.", "concepts": ["'unique solution'", "'iterative algebra'"]}
+{"sentence": "Some consequences and applications are presented.", "concepts": ["consequences'", "'applications'"]}
+{"sentence": "We then describe two ways to construct framed bicategories.", "concepts": ["'framed bicategory'"]}
+{"sentence": "In particular, the theory of Kan extensions extends to the setting of Grothendieck derivators.", "concepts": ["'Kan extension'", "'Grothendieck derivator'"]}
+{"sentence": "In particular, Rep(C, D) always has an initial object.", "concepts": ["'initial object'", "'category'", "'representation category'"]}
+{"sentence": "In those two cases, the functors in question may have surprisingly opulent structures.", "concepts": ["'functor'"]}
+{"sentence": "The latter leads to a deeper understanding of the notion of linear functor.", "concepts": ["'linear functor'"]}
+{"sentence": "We replace connected components by constructively complemented, or definable, monomorphisms.", "concepts": ["'monomorphism'", "'constructively complemented'", "'definable'"]}
+{"sentence": "This paper deals with Kan extensions in a weak double category.", "concepts": ["'Kan extension'", "'weak double category'"]}
+{"sentence": "We show that their use can be avoided and all remaining results remain correct.", "concepts": ["None - this sentence does not contain any math concepts."]}
+{"sentence": "See note on p. 24.", "concepts": ["None"]}
+{"sentence": "Our paper extends these ideas somewhat.", "concepts": ["None"]}
+{"sentence": "We give some examples in algebra and in topos theory.", "concepts": ["'algebra'", "'topos theory'"]}
+{"sentence": "This paper revisits the authors' notion of a differential category from a different perspective.", "concepts": ["'differential category'"]}
+{"sentence": "We present an analysis of the basic properties of Cartesian differential categories.", "concepts": ["'Cartesian differential category'"]}
+{"sentence": "The retract (A, a) is not free in general.", "concepts": ["retract", "free"]}
+{"sentence": "We study convergent (terminating and confluent) presentations of n-categories.", "concepts": ["'n-category'", "'terminating presentation'", "'confluent presentation'", "'convergence'"]}
+{"sentence": "We characterise this property by using the notion of critical branching.", "concepts": ["'property'", "'notion'", "'critical branching'"]}
+{"sentence": "This paper introduces the notions of vector field and flow on a general differentiable stack.", "concepts": ["'vector field'", "'flow'", "'differentiable stack'"]}
+{"sentence": "Both of them generalise the concept of algebra on a monad T.", "concepts": ["'algebra'", "'monad'"]}
+{"sentence": "We define eventually cyclic Boolean flows and the eventually cyclic spectrum of a Boolean flow.", "concepts": ["'Boolean flow'", "'eventually cyclic Boolean flow'", "'eventually cyclic spectrum'"]}
+{"sentence": "We axiomatically define (pre-)Hilbert categories.", "concepts": ["'pre-Hilbert category'", "'Hilbert category'"]}
+{"sentence": "The axioms resemble those for monoidal Abelian categories with the addition of an involutive functor.", "concepts": ["'monoidal category'", "'Abelian category'", "'involutive functor'"]}
+{"sentence": "Neither enrichment nor a complex base field is presupposed.", "concepts": ["'enrichment'", "'complex base field'"]}
+{"sentence": "A comparison to other approaches will be made in the introduction.", "concepts": ["comparison", "approach"]}
+{"sentence": "Distributive laws between monads (triples) were defined by Jon Beck in the 1960s.", "concepts": ["'monad'", "'triple'", "'distributive law'"]}
+{"sentence": "Particular cases are the entwining operators between algebras and coalgebras.", "concepts": ["'entwining operator'", "'algebra'", "'coalgebra'"]}
+{"sentence": "For such a class of spaces homotopy orthogonality implies enriched orthogonality.", "concepts": ["'space'", "'class of spaces'", "'homotopy'", "'enriched orthogonality'"]}
+{"sentence": "The state space of a machine admits the structure of time.", "concepts": ["'state space'", "'machine'", "'structure'", "'time'"]}
+{"sentence": "The set of such components often gives a computable invariant of machine behavior.", "concepts": ["'computable invariant'", "'machine behavior'"]}
+{"sentence": "In the general case, no such meaningful partition could exist.", "concepts": ["none found"]}
+{"sentence": "Thus we hope to extend geometric techniques in static program analysis to looping processes.", "concepts": ["'geometric techniques'", "'static program analysis'", "'looping processes'"]}
+{"sentence": "The present paper starts by supplying this last clause with a precise meaning.", "concepts": ["None - there are no math concepts mentioned in this context."]}
+{"sentence": "This framework allows us to define push-forwards for Witt groups, for example.", "concepts": ["'push-forward'", "'Witt group'"]}
+{"sentence": "Protomodularity, in the pointed case, is equivalent to the Split Short Five Lemma.", "concepts": ["'protomodularity'", "'pointed case'", "'Split Short Five Lemma'"]}
+{"sentence": "Under condition (I), every multiplicative graph is an internal category.", "concepts": ["'multiplicative graph'", "'internal category'"]}
+{"sentence": "We describe a simplified categorical approach to Galois descent theory.", "concepts": ["'Galois descent theory'", "'categorical approach'"]}
+{"sentence": "We conclude with applications to examples.", "concepts": ["applications", "examples"]}
+{"sentence": "Now coproduct preservation yields an approach to product measures.", "concepts": ["'coproduct preservation'", "'product measures'"]}
+{"sentence": "Then we present three applications of groupoidification.", "concepts": ["'groupoidification'"]}
+{"sentence": "The first is to Feynman diagrams.", "concepts": ["'Feynman diagram'"]}
+{"sentence": "The second application is to Hecke algebras.", "concepts": ["'Hecke algebra'"]}
+{"sentence": "The third application is to Hall algebras.", "concepts": ["'Hall algebra'"]}
+{"sentence": "We present two generalizations of the Span construction.", "concepts": ["'Span construction'", "'generalization'"]}
+{"sentence": "Let R be a commutative ring whose complete ring of quotients is R-injective.", "concepts": ["commutative ring", "complete ring of quotients", "R-injective"]}
+{"sentence": "This allows presentation of the stochastic automata as algebras for this distributive law.", "concepts": ["'stochastic automata'", "'algebra'", "'distributive law'"]}
+{"sentence": "The ``if\" directions fail for semi-abelian varieties.", "concepts": ["'semi-abelian variety'"]}
+{"sentence": "We compute some simple examples and explore the elementary properties of these invariants.", "concepts": ["'invariant'", "'elementary property'"]}
+{"sentence": "The result then applies to quantum categories and bialgebroids.", "concepts": ["quantum category'", "'bialgebroid'"]}
+{"sentence": "But, is this really the correct level of generalisation?", "concepts": ["generalisation"]}
+{"sentence": "Symbolic dynamics is partly the study of walks in a directed graph.", "concepts": ["'symbolic dynamics'", "'directed graph'", "'walk'"]}
+{"sentence": "We determine the resulting homotopy category.", "concepts": ["'homotopy category'"]}
+{"sentence": "To each graph we associate a basal graph, well defined up to isomorphism.", "concepts": ["'graph'", "'basal graph'", "'isomorphism'"]}
+{"sentence": "We combine two recent ideas: cartesian differential categories, and restriction categories.", "concepts": ["'cartesian differential category'", "'restriction category'"]}
+{"sentence": "The category of Set-valued presheaves on a small category B is a topos.", "concepts": ["'category'", "'Set-valued presheaves'", "'small category'", "'topos'"]}
+{"sentence": "A flow on a compact Hausdorff space is an automorphism.", "concepts": ["'flow'", "'compact Hausdorff space'", "'automorphism'"]}
+{"sentence": "Vertical arrows give rise to modules between representables.", "concepts": ["'representable'", "'module'", "'vertical arrow'"]}
+{"sentence": "Various concerns suggest looking for internal co-categories in categories with strong logical structure.", "concepts": ["'internal co-category'", "'category'", "'logical structure'"]}
+{"sentence": "We give a new proof of the fact that every topos is adhesive.", "concepts": ["'topos'", "'adhesive'"]}
+{"sentence": "We compare various different definitions of \"the category of smooth objects\".", "concepts": ["'smooth object'", "'category of smooth objects'"]}
+{"sentence": "This therefore applies beyond the question of categories of smooth spaces.", "concepts": ["'smooth space'", "'category of smooth spaces'"]}
+{"sentence": "We indicate also some possible novel geometric interest in such algebras.", "concepts": ["'geometric interest'", "'algebra'"]}
+{"sentence": "In this paper we will give a new, elementary proof of this result.", "concepts": ["'elementary proof'", "'result'"]}
+{"sentence": "We clarify details of that work.", "concepts": ["None - there are no Math concepts mentioned in this sentence."]}
+{"sentence": "Our main conceptual tool is a monad on the category of grouped toposes.", "concepts": ["'monad'", "'category'", "'grouped topos'"]}
+{"sentence": "We also discuss some new examples and results motivated by this characterization.", "concepts": ["'example'", "'result'", "'characterization'"]}
+{"sentence": "It also gives an easy way to calculate the sources and targets of opetopes.", "concepts": ["'opetope'", "'source'", "'target'"]}
+{"sentence": "Finally, we exhibit several free constructions relating the different classes of categories under consideration.", "concepts": ["'category'", "'free construction'"]}
+{"sentence": "Our main results are presented at the level of monoidal bicategories.", "concepts": ["'monoidal bicategory'"]}
+{"sentence": "In fact, we provide some very general results connecting opmonoidal monads and skew monoidales.", "concepts": ["'opmonoidal monad'", "'skew monoidale'"]}
+{"sentence": "We prove that congruence lattices of Morita equivalent small categories are isomorphic.", "concepts": ["'congruence lattice'", "'Morita equivalence'", "'small category'", "'isomorphic'"]}
+{"sentence": "In the final section applications to cartesian monoidal categories are considered.", "concepts": ["monoidal category", "cartesian monoidal category"]}
+{"sentence": "We develop an alternative approach to star-autonomous comonads via linearly distributive categories.", "concepts": ["'star-autonomous comonad'", "'linearly distributive category'"]}
+{"sentence": "Further applications are given.", "concepts": ["applications'"]}
+{"sentence": "The paper presents algebraic and logical developments.", "concepts": ["algebraic development'", "'logical development'"]}
+{"sentence": "This development involves a study of clone and double-dualization structures.", "concepts": ["'clone'", "'double-dualization structure'"]}
+{"sentence": "We also prove that each construction preserves comprehension.", "concepts": ["'construction'", "'comprehension'"]}
+{"sentence": "We study the composition of modules between lax functors of weak double categories.", "concepts": ["'module'", "'lax functor'", "'weak double category'", "'composition'"]}
+{"sentence": "These axioms are commutative squares involving only co-smash products.", "concepts": ["'commutative square'", "'co-smash product'"]}
+{"sentence": "In this paper we introduce the corresponding morphism concept and examine its properties.", "concepts": ["'morphism'", "'corresponding morphism concept'", "'properties'"]}
+{"sentence": "Moreover, we show that separated L-complete morphisms belong to a factorization system.", "concepts": ["'L-complete morphism'", "'factorization system'"]}
+{"sentence": "In fact, even Higgins commutators suffice.", "concepts": ["Higgins commutators'"]}
+{"sentence": "When \u00ce\u00ba=\u00cf\u2030 it includes the pretopos completion of a coherent category.", "concepts": ["pretopos completion'", "'coherent category'"]}
+{"sentence": "We prove four characterization theorems dealing with adhesive categories and their variants.", "concepts": ["'characterization theorem'", "'adhesive category'"]}
+{"sentence": "There is a lot of redundancy in the usual definition of adjoint functors.", "concepts": ["adjoint functor"]}
+{"sentence": "We define and prove the core of what is required.", "concepts": ["'core'"]}
+{"sentence": "First we do this in the hom-enriched context.", "concepts": ["'hom-enriched context'"]}
+{"sentence": "Finally, we describe a doctrinal setting.", "concepts": ["'doctrinal setting'"]}
+{"sentence": "Such a theory is called a super Fermat theory.", "concepts": ["'super Fermat theory'"]}
+{"sentence": "Any category of superspaces and smooth functions has an associated such theory.", "concepts": ["'category'", "'superspace'", "'smooth function'", "'associated theory'"]}
+{"sentence": "This includes both real and complex supermanifolds, as well as algebraic superschemes.", "concepts": ["'supermanifold'", "'complex supermanifold'", "'algebraic superscheme'"]}
+{"sentence": "These include conditions on relations as well as conditions on simplicial objects.", "concepts": ["'relation'", "'simplicial object'"]}
+{"sentence": "We also give various examples and counterexamples.", "concepts": ["counterexample"]}
+{"sentence": "Cartesian differential categories abstractly capture the notion of a differentiation operation.", "concepts": ["'Cartesian differential category'", "'differentiation operation'"]}
+{"sentence": "We show that this exterior derivative, as expected, produces a cochain complex.", "concepts": ["'exterior derivative'", "'cochain complex'"]}
+{"sentence": "It follows that complicial sets are equivalent to sets with complicial identities.", "concepts": ["'complicial set'", "'complicial identity'"]}
+{"sentence": "The resulting structures are called sets with complicial identities.", "concepts": ["complicial identity'", "'set'"]}
+{"sentence": "These two adjunctions are respectively generalizations of Isbell adjunctions and Kan extensions in category theory.", "concepts": ["'adjunction'", "'generalization'", "'Isbell adjunction'", "'Kan extension'", "'category theory'"]}
+{"sentence": "We also briefly study 3-categories with weak inverses.", "concepts": ["'3-category'", "'weak inverse'"]}
+{"sentence": "We finish by two questions about the problem suggested by the title of this text.", "concepts": ["None (no Math concepts are mentioned in this context)"]}
+{"sentence": "This proposition is then applied to the study of quotient geometric theories and subtoposes.", "concepts": ["'quotient geometric theory'", "'subtopos'"]}
+{"sentence": "We introduce an axiomatic framework for the parallel transport of connections on gerbes.", "concepts": ["'axiomatic framework'", "'parallel transport'", "'connection'", "'gerbe'"]}
+{"sentence": "Suppose that S is a space.", "concepts": ["'space'"]}
+{"sentence": "This result is analogous to the correspondence between measures and integrals.", "concepts": ["integral", "measure"]}
+{"sentence": "So, for example, we can speak of integration against an ultrafilter.", "concepts": ["integration", "ultrafilter"]}
+{"sentence": "We are particularly interested in pseudomonads that arise from KZ-doctrines.", "concepts": ["'pseudomonad'", "'KZ-doctrine'"]}
+{"sentence": "Tightly bounded KZ-doctrines are shown to be idempotent.", "concepts": ["KZ-doctrine'", "'idempotent'"]}
+{"sentence": "We characterize topos inclusions corresponding to a general form of relative computability.", "concepts": ["'topos'", "'topos inclusion'", "'relative computability'"]}
+{"sentence": "We characterize pcas whose realizability topos admits a geometric morphism to the effective topos.", "concepts": ["'pca'", "'realizability topos'", "'geometric morphism'", "'effective topos'"]}
+{"sentence": "We thereby resolve two of the problems with known approaches to bicategorical localization.", "concepts": ["'bicategorical localization'"]}
+{"sentence": "We show that the answer is positive by building some examples.", "concepts": ["positive answer'", "'example'", "'building'"]}
+{"sentence": "We set forth the basic theory of such enriched factorization systems.", "concepts": ["'enriched factorization system'"]}
+{"sentence": "The possibility of spectra in other categories is discussed.", "concepts": ["'spectrum'", "'category'"]}
