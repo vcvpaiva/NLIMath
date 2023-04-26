@@ -8,7 +8,7 @@ https://github.com/ToposInstitute/tac-corpus/blob/main/golden-attempt/examples.t
 
 A proposed golden set of extracted concepts is in 300sent_concepts_union_set.txt.
 
-Short guidelines for mathematician annotation  of  agreed:
+Short guidelines for mathematician annotation already  agreed:
 
 1. Try to treat math concepts as blackboxes, as much as possible.
 
@@ -17,4 +17,6 @@ Short guidelines for mathematician annotation  of  agreed:
 4.  We won’t repeat trivial things like “category, functor and natural transformation”, the “point, line and plane” of CT.
 
 Instead of aligning our annotations, we will take any concept that has two votes.
+
+A subset of the 300 sentences do not have any mathematical concepts at all, e.g. "Further applications are given."
 
