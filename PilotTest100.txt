@@ -1,0 +1,998 @@
+We use a number of interesting categories related to probability theory.
+A notion of central importance in categorical topology is that of topological functor.
+In the nilpotent case, this nerve is known to be a Kan complex.
+We work through numerous examples to demonstrate the power of these notions.
+If the category is additive, we define a sheaf of categories of analytic functions.
+We use these relations to define analytic versions of Arakelov compactifications of affine arithmetic varieties.
+They are used in the paper only to prove Corollary~8.3.
+A proof of this corollary is given without them.
+Here ``balanced'' can be omitted if the category is additive.
+We introduce the notion of mutation pairs in pseudo-triangulated categories.
+This result unifies many previous constructions of quotient triangulated categories.
+We study extra assumptions on pretopologies that are needed for this theory.
+We check these extra assumptions in several categories with pretopologies.
+Functors between groupoids may be localised at equivalences in two ways.
+We show that both approaches give equivalent bicategories.
+In this paper, we use the language of operads to study open dynamical systems.
+The syntactic architecture of such interconnections is encoded using the visual language of wiring diagrams.
+Moreover it enables us to characterise operads as categorical polynomial monads in a canonical way.
+have two useful gradings related by isomorphisms which change the degree.
+The result is a double category C//G which describes the local symmetries of C.
+There are few known computable examples of non-abelian surface holonomy.
+Using these ideas, we also prove that magnetic monopoles form an abelian group.
+We introduce a 3-dimensional categorical structure which we call intercategory.
+We show that these fit together to produce a strict triple category of intercategories.
+This is the third paper in a series.
+The effect of any bundle of Lie groups is trivial.
+All quotients of a given Lie groupoid determine the same effect.
+Our analysis is relevant to the presentation theory of proper smooth stacks.
+This paper extends the Day Reflection Theorem to skew monoidal categories.
+Let C be a finite category.
+We also give a presentation for FinRelk.
+For full subcategories the answer is affirmative.
+We put a model structure on the category of categories internal to simplicial sets.
+We also study the homotopy theory of internal presheaves over an internal category.
+Monoidal differential categories provide the framework for categorical models of differential linear logic.
+The coKleisli category of any monoidal differential category is always a Cartesian differential category.
+We focus primarily on the definitions due to Batanin and Leinster.
+In both cases we define the join operation as union.
+In the present article we describe constructions of model structures on general bicomplete categories.
+Constant cosheaves are constructed, and there are established connections with shape theory.
+Unlike the uniform completion, the Dedekind completion of a vector lattice is not functorial.
+Our examples include the gleaf of metric spaces and the gleaf of joint probability distributions.
+Examples of compositories include nerves of categories and compositories of higher spans.
+We also characterize the irreducible and indecomposable representations.
+We consider locales B as algebras in the tensor category sl of sup-lattices.
+This equivalence follows from two independent results.
+We do not require the base monoidal category M to be closed or symmetric monoidal.
+We study the properties of these functors, and calculate some examples.
+We give several examples of compact closed bicategories, then review previous work.
+We develop a homotopy theory of categories enriched in a monoidal model category V.
+The model structure is shown to be left proper.
+Our results hold in any pointed regular protomodular category.
+We show that the morphism axiom for n-angulated categories is redundant.
+In this situation we need the notion of a delocalization.
+Here we establish its significance in an algebraic context.
+Birkhoff's variety theorem from universal algebra characterises equational subcategories of varieties.
+We give an analogue of Birkhoff's theorem in the setting of enrichment in categories.
+We will also see that these constructions preserve right properness and compatibility with simplicial enrichment.
+The purpose of this paper is two-fold.
+In the case of sheaves, we use local equivalence as the weak equivalence.
+The theory of derivators enhances and simplifies the theory of triangulated categories.
+We present a theory of cohomological as well as homological descent in this language.
+The main motivation is a descent theory for Grothendieck's six operations.
+Several consequences of examining particular classes of hypercrossed complexes of Lie algebras are presented.
+Two states are past-similar if they have homotopic pasts.
+However, R(S) can be seen as a new type of quantale completions of S.
+Moreover, we exhibit the precise relationship between holomorphic and smooth gerbes.
+This is phrased in terms of a multilinear functor calculus in a bicategory.
+Connections are an important tool of differential geometry.
+This paper investigates their definition and structure in the abstract setting of tangent categories.
+A compactification technique is developed based on Shanin's method.
+Among these are different versions of the acyclic models method.
+Such a functor between effective categories is known to be an equivalence.
+Databases have been studied category-theoretically for decades.
+The aim of this paper is to present a perspective that addresses this issue.
+Throughout, we emphasise how corelations model interconnection.
+All these structures can be realised as algebras over polynomial monads.
+Many important monads are shown to be tame polynomial.
+This construction generalizes the nerve construction for differential graded categories given by Lurie.
+We study the structure of the category of polynomials in a locally cartesian closed category.
+This composition, however, is somewhat complex and difficult to work with.
+Our first important result is similar to that of Lack and Street.
+We study deformation of tube algebra under twisting of graded monoidal categories.
+Let H be a quasi-Hopf algebra.
+We prove that this functor is symmetric monoidal and indeed a hypergraph functor.
+Each kind of circuit corresponds to a mathematically natural prop.
+We describe the `behavior' of these circuits using morphisms between props.
+We introduce and compare several new exactness conditions involving what we call split cubes.
+The proof uses only certain categorical properties of the category of locales, Loc.
+This 2-categorical refinement also provides a uniqueness statement concerning canonical triangulations.
+We introduce a new class of categories generalizing locally presentable ones.
+These biequivalences induce equivalences between the corresponding categories of algebras.
+There are three main ingredients in establishing these biequivalences.
+One motivation for this construction is an application to graph rewriting.
+In this paper, we study properties of maps between fibrant objects in model categories.
+We give a characterization of weak equivalences between fibrant objects.
+An open question was: is it also a variety?
+We show that the answer is affirmative.
+The dual equivalence is induced by the dualizing object [0,1].
+These variants of universal algebra are called {notions of algebraic theory}.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
