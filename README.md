@@ -18,5 +18,5 @@ Short guidelines for mathematician annotation already  agreed:
   
 3.  If one has a long span that is a concept, e.g. “enriched accessible categories”, we should also list the sensible subspans like “accessible category”.
 
-A subset of the 300 sentences do not have any mathematical concepts at all, e.g. "Further applications are given."
+A subset of the sentences  have no mathematical concepts at all, e.g. "Further applications are given."
 
