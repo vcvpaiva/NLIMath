@@ -7,7 +7,7 @@ The TAC corpus can be found at https://github.com/ToposInstitute/tac-corpus.
 A selection of 432 sentences of the TAC corpus (some are empty), selected by size (not too big, not too small) and lack of LaTeX is in
 https://github.com/ToposInstitute/tac-corpus/blob/main/golden-attempt/examples.txt and is repeated here for convenience as Experiment2.txt.
 
-The nLab corpus (from around 2020) is in https://github.com/ToposInstitute/nlab-corpus.
+The nLab corpus (from around 2020) is at https://github.com/ToposInstitute/nlab-corpus.
 
 
 Short guidelines for mathematician annotation already  agreed:
