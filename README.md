@@ -1,6 +1,6 @@
 # Math Concept Identification and NLI Math
 
-A repo for  experiments in "math concept identification" using the TAC corpus and the nLab corpus.
+A repo for  experiments in "math concept identification" using the TAC corpus and the nLab corpus. (and first thoughts about NLI for mathematics.)
 
 The TAC corpus can be found at https://github.com/ToposInstitute/tac-corpus.
 
