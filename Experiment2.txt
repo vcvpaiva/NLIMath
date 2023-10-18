@@ -1,4 +1,4 @@
-%%% Examples of sentences from TAC abstracts, right size, no latex
+%%% Examples of sentences from TAC abstracts, the right size, no latex 436/3188 total sentences
 This yields a quadratic algorithm deciding the equality of diagrams in a free double category.
 The right adjoint of this Quillen equivalence is the classical Segal's Nerve functor.
 Along the way we prove numerous results showing that the enchilada category is rather strange.
