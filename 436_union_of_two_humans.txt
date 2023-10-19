@@ -6,12 +6,10 @@
 2-monad
 3-category
 Abelian category
-Algebraic Topology
 Ambrose-Singer theorem
 Arakelov compactification
 Aufhebung
 Batanin's construction
-Birkhoff's Variety Theorem
 Birkhoff's theorem
 Birkhoff's variety theorem
 Boolean algebra
@@ -20,7 +18,6 @@ Cartesian differential category
 Cauchy filter
 Cech cohomology
 Chu construction
-Chu-construction
 Chu-span
 Day Reflection Theorem
 Dedekind completion
@@ -104,7 +101,6 @@ axiomatizable class
 axiomatization
 balanced category
 basal graph
-base
 base category
 basis
 bialgebra
