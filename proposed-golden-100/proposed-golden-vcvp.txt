@@ -105,7 +105,6 @@ internal presheaf
 irreducible representation
 isomorphism
 join
-join operation
 joint probability distribution
 lattice
 left proper model structure
