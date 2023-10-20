@@ -72,8 +72,6 @@ equivalence
 exactness
 exactness condition
 fibrant
-fibrant object
-finite category
 full subcategory
 function
 functor
