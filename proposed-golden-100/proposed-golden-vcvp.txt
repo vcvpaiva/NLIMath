@@ -3,8 +3,7 @@
 Arakelov compactification
 Birkhoff's theorem
 Birkhoff's variety theorem
-Cartesian differential category
-Day Reflection Theorem
+Day reflection theorem
 Dedekind completion
 Grothendieck's six operations
 Hopf algebra
