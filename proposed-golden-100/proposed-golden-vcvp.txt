@@ -28,7 +28,6 @@ bicomplete category
 biequivalence
 bundle
 calculus
-canonical triangulation
 cartesian closed category
 categorical model
 categorical topology
