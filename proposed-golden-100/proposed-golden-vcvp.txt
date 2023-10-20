@@ -69,7 +69,6 @@ effective category
 enriched category
 enrichment
 equivalence
-equivalent bicategory
 exactness
 exactness condition
 fibrant
