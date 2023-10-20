@@ -1,0 +1,80 @@
+Dress-Muller theorem
+FOLDS
+Finite Sum sketch
+Gray-category
+MD
+Verdier
+algebraically
+associated theory
+axiomatic
+axiomatic framework
+categorical approach
+categorical discussion
+categorical property
+categorical structure
+category of module
+category of smooth object
+category of smooth space
+characterization
+class of space
+complete ring of quotient
+completion
+conjecture
+constructing
+constructing model
+construction
+corollary
+corresponding morphism concept
+counterexample
+data-specification
+definition
+diagram
+effective
+elementary case
+elementary proof
+entropic setting
+exponentiation of locale
+extension
+finitely generated
+formal
+free
+general category
+general construction
+general result
+generalization
+generalized variety
+geometric interest
+geometric technique
+grouped topos
+induced crossed module
+internal
+isomorphic
+lax higher dimensional structure
+logical structure
+notion
+open problem
+operation
+orthomudular lattice
+pointed case
+primitive structure
+property-like
+representation category
+result
+second homology
+semantic
+simplicial version
+site criterion
+special property
+specialize
+standard technique
+structure
+sufficient condition
+symbolic dynamic
+symmetric case
+synthetic theory
+technique
+theorem
+theory
+topologically
+topos inclusion
+unique solution
