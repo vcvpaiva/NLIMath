@@ -14,7 +14,6 @@ Lie groupoid
 abelian group
 acyclic model
 additive category 
-affine arithmetic variety
 affine variety
 algebra
 algebraic theory
