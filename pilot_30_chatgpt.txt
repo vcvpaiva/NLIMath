@@ -1,0 +1,135 @@
+5. If the category is additive, we define a sheaf of categories of analytic functions.
+E. We define a sheaf of categories of analytic functions if the category is additive.
+C. We do not define a sheaf of categories of analytic functions if the category is additive.
+N. If the category is not additive, we define a sheaf of categories of analytic functions.
+
+6. We use these relations to define analytic versions of Arakelov compactifications of affine arithmetic varieties.
+E. Relations are used to define analytic versions of Arakelov compactifications of affine arithmetic varieties.
+C. These relations are not used to define analytic versions of Arakelov compactifications of affine arithmetic varieties.
+N. These relations are used to define analytic versions of algebraic geometry varieties.
+
+7. They are used in the paper only to prove Corollary~8.3.
+E. They are only used in the paper to prove Corollary~8.3.
+C. They are used in the paper for purposes other than proving Corollary~8.3.
+N. They are used in the paper, but it is unclear for what purpose.
+
+8. ***A proof of this corollary is given without them.
+E. A proof of this corollary is given.
+C. A proof of this corollary cannot be given without them.
+N. A proof of this corollary may or may not be given without them.
+
+9. Here ``balanced'' can be omitted if the category is additive.
+E. If the category is additive, "balanced" can be omitted.
+C. If the category is additive, "balanced" cannot be omitted.
+N. If the category is not additive, "balanced" cannot be omitted.
+
+10. We introduce the notion of mutation pairs in pseudo-triangulated categories.
+E. Mutation pairs in pseudo-triangulated categories are introduced.
+C. There is no notion of mutation pairs in pseudo-triangulated categories.
+N. There are multiple notions of mutation pairs in pseudo-triangulated categories.
+
+11. This result unifies many previous constructions of quotient triangulated categories.
+E. Many previous constructions of quotient triangulated categories are unified by this result.
+C. This result does not unify any previous constructions of quotient triangulated categories.
+N. This result does not have any impact on previous constructions of quotient triangulated categories.
+
+12. We study extra assumptions on pretopologies that are needed for this theory.
+E. Extra assumptions on pretopologies are studied for this theory.
+C. No extra assumptions on pretopologies are studied for this theory.
+N. Extra assumptions on pretopologies are not needed for this theory.
+
+13. We check these extra assumptions in several categories with pretopologies.
+E. We check these extra assumptions in many categories with pretopologies.
+C. We do not check these extra assumptions in any categories with pretopologies.
+N. We check these extra assumptions in other categories with pretopologies.
+
+14. Functors between groupoids may be localised at equivalences in two ways.
+E. There are two ways to localize functors between groupoids at equivalences.
+C. Functors between groupoids cannot be localized at equivalences in any way.
+N. Localizing functors between groupoids at equivalences can be done in various ways.
+
+15. We show that both approaches give equivalent bicategories.
+E. Both approaches give equivalent bicategories.
+C. Both approaches do not give equivalent bicategories.
+N. There is no evidence that both approaches give equivalent bicategories.
+
+16. In this paper, we use the language of operads to study open dynamical systems.
+E. The language of operads is used in this paper to study open dynamical systems.
+C. The language of operads is not used in this paper to study open dynamical systems.
+N. The language of operads is mentioned in this paper but not utilized to study open dynamical systems.
+
+17. The syntactic architecture of such interconnections is encoded using the visual language of wiring diagrams.
+E. The visual language of wiring diagrams encodes the syntactic architecture of such interconnections.
+C. The visual language of wiring diagrams does not encode the syntactic architecture of such interconnections.
+N. The visual language of wiring diagrams may or may not encode the syntactic architecture of such interconnections.
+
+18.  Moreover it enables us to characterise operads as categorical polynomial monads in a canonical way.
+E. Operads can be characterized as categorical polynomial monads in a canonical way.
+C. It is not possible to characterize operads as categorical polynomial monads in a canonical way.
+N. It is possible to characterize operads as categorical polynomial monads in a non-canonical way.
+
+19. We have two useful gradings related by isomorphisms which change the degree.
+E. The change of degree is caused by two useful gradings related by isomorphisms.
+C. There is no change of degree caused by two useful gradings related by isomorphisms.
+N. There are multiple changes of degree caused by two useful gradings related by isomorphisms.
+
+20.  The result is a double category C//G which describes the local symmetries of C.
+E. The double category C//G describes the local symmetries of C.
+C. The double category C//G does not describe the local symmetries of C.
+N. The double category C//G is unrelated to the local symmetries of C.
+
+21. There are few known computable examples of non-abelian surface holonomy.
+E. There are several known computable examples of non-abelian surface holonomy.
+C. There are many known computable examples of non-abelian surface holonomy.
+N. There are no known computable examples of non-abelian surface holonomy.
+
+22. Using these ideas, we also prove that magnetic monopoles form an abelian group.
+E. Magnetic monopoles form an abelian group using these ideas.
+C. Magnetic monopoles do not form an abelian group using these ideas.
+N. Magnetic monopoles may or may not form an abelian group using these ideas.
+
+23.  We introduce a 3-dimensional categorical structure which we call intercategory.
+E. Intercategory is a 3-dimensional categorical structure that we introduce.
+C. We do not introduce a 3-dimensional categorical structure called intercategory.
+N. We introduce a 2-dimensional categorical structure which we call intercategory.
+
+24. We show that these fit together to produce a strict triple category of intercategories.
+E. These fit together to produce a strict triple category of intercategories.
+C. These do not fit together to produce a strict triple category of intercategories.
+N. These may or may not fit together to produce a strict triple category of intercategories.
+
+25. This is the third paper in a series.
+E. This is not the third paper in a series.
+C. This is not part of a series.
+N. This is the first paper in a series.
+
+26. The effect of any bundle of Lie groups is trivial.
+E. The effect of every bundle of Lie groups is trivial.
+C. The effect of any bundle of Lie groups is not trivial.
+N. The effect of any bundle of Lie groups is unknown.
+
+27.  All quotients of a given Lie groupoid determine the same effect.
+E. The same effect is determined by all quotients of a given Lie groupoid.
+C. Not all quotients of a given Lie groupoid determine the same effect.
+N. Quotients of a given Lie groupoid may or may not determine the same effect.
+
+28. Our analysis is relevant to the presentation theory of proper smooth stacks.
+E. The presentation theory of proper smooth stacks is relevant to our analysis.
+C. Our analysis is not relevant to the presentation theory of proper smooth stacks.
+N. Our analysis is relevant to the presentation theory of algebraic geometry.
+
+29. This paper extends the Day Reflection Theorem to skew monoidal categories.
+E. The Day Reflection Theorem is extended to skew monoidal categories.
+C. The Day Reflection Theorem is not extended to skew monoidal categories.
+N. This paper does not extend the Day Reflection Theorem to skew monoidal categories.
+
+30. Let C be a finite category.
+E. A finite category is denoted as C.
+C. C cannot be denoted as a finite category.
+N. There is no finite category denoted as C.
+
+31. We also give a presentation for FinRelk.
+E. A presentation for FinRelk is given.
+C. No presentation is given for FinRelk.
+N. We give a presentation for FinRelk, but it may not be adequate.
+
