@@ -1,0 +1,272 @@
+%% Building an NLI corpus from TAC sentences/Revising prompts after chatGPT/GPT4 checks
+
+1. We use a number of interesting categories related to probability theory.
+E. There exists a number of interesting categories related to probability theory.
+
+1. We use a number of interesting categories related to probability theory.
+C. There are no interesting categories related to probability theory.
+
+1. We use a number of interesting categories related to probability theory.
+N. There are no interesting categories related to topology.
+
+2. A notion of central importance in categorical topology is that of topological functor.
+E. Topological functor is a notion of categorical topology.
+
+2. A notion of central importance in categorical topology is that of topological functor.
+C. There are no notions of importance in categorical topology.
+
+2. A notion of central importance in categorical topology is that of topological functor.
+N. There are many  notions of central importance in categorical topology.
+
+3. In the nilpotent case, this nerve is known to be a Kan complex.
+E. There are nerves that are Kan complexes.
+
+3. In the nilpotent case, this nerve is known to be a Kan complex.
+C. In the nilpotent case, this nerve is not known to be a Kan complex.
+
+3. In the nilpotent case, this nerve is known to be a Kan complex.
+N. This nerve is not known to be a Kan complex.
+
+4. We worked through numerous examples to demonstrate the power of these notions.
+E. We worked through two examples to demonstrate the power of these notions.
+
+4. We worked through numerous examples to demonstrate the power of these notions.
+C. We did not work through numerous examples to demonstrate the power of these notions.
+
+4. We worked through numerous examples to demonstrate the power of these notions.
+N. We worked through numerous examples to deny the power of these notions.
+
+5. If the category is additive, we define a sheaf of categories of analytic functions.
+E. If the category is additive, we define a sheaf of categories of functions.
+
+5. If the category is additive, we define a sheaf of categories of analytic functions.
+C. If the category is additive, we do not define a sheaf of categories of analytic functions.
+
+5. If the category is additive, we define a sheaf of categories of analytic functions.
+N. we can define a sheaf of categories of analytic functions.
+
+6. We use these relations to define analytic versions of Arakelov compactifications of affine arithmetic varieties.
+E. We can define analytic versions of Arakelov compactifications of affine arithmetic varieties.
+
+6. We use these relations to define analytic versions of Arakelov compactifications of affine arithmetic varieties.
+C. These relations cannot be used to define analytic versions of Arakelov compactifications of affine arithmetic varieties.
+
+6. We use these relations to define analytic versions of Arakelov compactifications of affine arithmetic varieties.
+N. We use these relations to define analytic versions of  compactifications of affine arithmetic varieties.
+
+7. They are used in the paper only to prove Corollary~8.3.
+E. They are used in the paper  to prove Corollary~8.3.
+
+7. They are used in the paper only to prove Corollary~8.3.
+C. They are not used in the paper  to prove Corollary~8.3.
+
+7. They are used in the paper  to prove Corollary~8.3.
+N. They are used in the paper  to prove Corollary~8.5.
+%removed only
+
+8. A proof of this corollary is given without them.
+E. There exists a proof of this corollary.
+
+8. A proof of this corollary is given without them.
+C. There is no proof of this corollary without them.
+
+8. A proof of this corollary is given without them.
+N. A proof of this corollary is given with these
+%% need to change
+
+9. Here ``balanced'' can be omitted if the category is additive.
+E. For additive categories ``balanced" can be omitted here.
+
+9. Here ``balanced'' can be omitted if the category is additive.
+C. Here ``balanced'' cannot be omitted if the category is additive.
+
+9. Here ``balanced'' can be omitted if the category is additive.
+N. Here ``balanced'' can be omitted.
+
+10. We introduce the notion of mutation pairs in pseudo-triangulated categories.
+E. We introduce the notion of mutation pairs.
+
+10. We introduce the notion of mutation pairs in pseudo-triangulated categories.
+C. We cannot introduce the notion of mutation pairs in pseudo-triangulated categories.
+
+10. We introduce the notion of mutation pairs in pseudo-triangulated categories.
+N. We introduce the notion of mutation pairs in pseudo-triangulated categories.
+
+11. This result unifies many previous constructions of quotient triangulated categories.
+E: This result unifies some previous constructions of quotient triangulated categories.
+
+11. This result unifies many previous constructions of quotient triangulated categories.
+C: This result is not related to any of the previous constructions of quotient triangulated categories.
+
+11. This result unifies many previous constructions of quotient triangulated categories.
+N: This result does not subsume some of the previous constructions of quotient triangulated categories.
+%%Comment: it is not really clear what exactly "unify" means
+
+12. We study extra assumptions on pretopologies that are needed for this theory.
+E: We investigate additional assumptions on pretopologies that are needed for this theory.
+
+12. We study extra assumptions on pretopologies that are needed for this theory.
+C: However, we will not be concerned with extra assumptions on pretopologies needed for this theory.
+
+12. We study extra assumptions on pretopologies that are needed for this theory.
+N: We do not study the basic assumptions on pretopologies that are needed for this theory.
+
+13. We check these extra assumptions in several categories with pretopologies.
+E: We check these extra assumptions in at least one category with a pretopology.
+
+13. We check these extra assumptions in several categories with pretopologies.
+C: We will not check these extra assumptions in categories with pretopologies.
+
+13. We check these extra assumptions in several categories with pretopologies.
+N: We check these extra assumptions in many categories with pretopologies.
+
+14. Functors between groupoids may be localised at equivalences in two ways.
+E: Functors between groupoids can be localised at equivalences.
+
+14. Functors between groupoids may be localised at equivalences in two ways.
+C: Unfortunately, it is not possible to localise functors between groupoids at equivalences.
+
+14. Functors between groupoids may be localised at equivalences in two ways.
+N: Localisation of functors between groupoids is used to prove Theorem 5.3.
+
+15. We show that both approaches give equivalent bicategories.
+E: Both approaches yield equivalent bicategories.
+
+15. We show that both approaches give equivalent bicategories.
+C: It was shown that these two approaches give distinct bicategories.
+
+15. We show that both approaches give equivalent bicategories.
+N: Both approaches give the same bicategory.
+
+16. In this paper, we use the language of operads to study open dynamical systems.
+E: We study dynamical systems in this paper.
+
+16. In this paper, we use the language of operads to study open dynamical systems.
+C: We will not be concerned with the language of operads.
+
+16. In this paper, we use the language of operads to study open dynamical systems.
+N: The study of open dynamical systems requires the language of operads.
+
+17. The syntactic architecture of such interconnections is encoded using the visual language of wiring diagrams.
+E: Wiring diagrams are related to the syntactic architecture of such interconnections.
+
+17. The syntactic architecture of such interconnections is encoded using the visual language of wiring diagrams.
+C: Such interconnections lack any syntactic structure.
+
+17. The syntactic architecture of such interconnections is encoded using the visual language of wiring diagrams.
+N: The only way to encode the syntactic structure of such interconnections is by means of the visual language of wiring diagrams.
+
+18.  Moreover it enables us to characterise operads as categorical polynomial monads in a canonical way.
+E: Operads can be characterised as categorical polynomial monads.
+
+18.  Moreover it enables us to characterise operads as categorical polynomial monads in a canonical way.
+C: Operads can be characterised as categorical polynomial monads; however, no canonical way of doing so exists.
+
+18.  Moreover it enables us to characterise operads as categorical polynomial monads in a canonical way.
+N: There is exactly one way to characterise operads as categorical polynomial monads.
+
+19. We have two useful gradings related by isomorphisms which change the degree.
+E: There exist some gradings related by isomorphisms which change the degree.
+
+19. We have two useful gradings related by isomorphisms which change the degree.
+C: No two gradings which change the degree are isomorphic.
+
+19. We have two useful gradings related by isomorphisms which change the degree.
+N: There exist many pairs of gradings related by isomorphisms which change the degree.
+
+20.  The result is a double category C//G which describes the local symmetries of C.
+E: The result is a category.
+
+20.  The result is a double category C//G which describes the local symmetries of C.
+C: The result is a Riemann surface of genus 3 with 2 marked points.
+
+20. The result is a double category C//G which describes the local symmetries of C.
+N: The result describes both local and non-local symmetries of C.
+
+21. There are few known computable examples of non-abelian surface holonomy.
+E: There are some known examples of non-abelian surface holonomy.
+
+21. There are few known computable examples of non-abelian surface holonomy.
+C: There are no known computable examples of non-abelian surface holonomy.
+
+21. There are few known computable examples of non-abelian surface holonomy.
+N: There are few known examples of non-abelian surface holonomy.
+
+22. Using these ideas, we also prove that magnetic monopoles form an abelian group.
+E:  Using these ideas, we also prove that magnetic monopoles form a group.
+
+22. Using these ideas, we also prove that magnetic monopoles form an abelian group.
+C:  Using these ideas, we disprove the conjecture that magnetic monopoles form a group.
+
+22. Using these ideas, we also prove that magnetic monopoles form an abelian group.
+N: Using these ideas, we also prove that monopoles form a semigroup.
+
+23.  We introduce a 3-dimensional categorical structure which we call intercategory.
+E: We introduce a 3-dimensional categorical structure.
+C: In a previous paper, we introduced a 3-dimensional categorical structure which we called intercategory.
+N: An intercategory is a category with a 3-dimensional intercategorical structure.
+
+24. We show that these fit together to produce a strict triple category of intercategories.
+E: We show that these fit together to produce a category of intercategories.
+
+24. We show that these fit together to produce a strict triple category of intercategories.
+C: We doubt that these fit together to produce a strict triple category of intercategories.
+
+24. We show that these fit together to produce a strict triple category of intercategories.
+N: Three intercategories fit together to produce a strict triple.
+
+25. This is the third paper in a series.
+E: This paper is part of a series.
+
+25. This is the third paper in a series.
+C: This is the fourth paper in a series.
+
+25. This is the third paper in a series.
+N: This is the third paper on this topic.
+
+26. The effect of any bundle of Lie groups is trivial.
+E: Lie groups sometimes appear in bundles.
+
+26. The effect of any bundle of Lie groups is trivial.
+C: The effect of any bundle of Lie groups is 0.
+
+26. The effect of any bundle of Lie groups is trivial.
+N: Groups always have effects.
+
+27.  All quotients of a given Lie groupoid determine the same effect.
+E:  Any two quotients of a given Lie groupoid determine the same effect.
+
+27.  All quotients of a given Lie groupoid determine the same effect.
+C: Lie groupoids effectively have just one quotient.
+
+27.  All quotients of a given Lie groupoid determine the same effect.
+N: A Lie groupoid has either zero or one quotient.
+
+28. Our analysis is relevant to the presentation theory of proper smooth stacks.
+E: Proper smooth stacks may sometimes be presented.
+
+28. Our analysis is relevant to the presentation theory of proper smooth stacks.
+C: Our analysis does not have anything to say about the presentation theory of proper smooth stacks.
+
+28. Our analysis is relevant to the presentation theory of proper smooth stacks.
+N: Proper smooth stacks may always be presented.
+
+29) This paper extends the Day Reflection Theorem to skew monoidal categories.
+E:  This paper extends the Day Reflection Theorem to a family of monoidal categories.
+
+29) This paper extends the Day Reflection Theorem to skew monoidal categories.
+C: This paper derives the Day Reflection Theorem from skew monoidal categories.
+
+29) This paper extends the Day Reflection Theorem to skew monoidal categories.
+N: This paper extends the Day Reflection Theorem to monoidal categories.
+
+30) We also give a presentation for FinRelk.
+E: We also exhibit a presentation for FinRelk.
+
+30) We also give a presentation for FinRelk.
+C: There is no presentation for FinRelk.
+
+30) We also give a presentation for FinRelk.
+N: This is the first time that anyone gives a presentation for FinRelk.
+
+ 
