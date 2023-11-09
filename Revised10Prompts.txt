@@ -8,13 +8,13 @@ C. There are no interesting categories related to probability theory.
 
 1. We use a number of interesting categories related to probability theory.
 N. There are no interesting categories related to topology.
-% machine says contradiction, human says neutral. machine is wrong. probability theory and topology are disjoint, it's not a contradiction
+% DeBerta says contradiction, human says neutral. machine is wrong. probability theory and topology are disjoint, it's not a contradiction
 
 2. A notion of central importance in categorical topology is that of topological functor.
 E. Topological functor is a notion of categorical topology.
 
 2. A notion of central importance in categorical topology is that of topological functor.
-C. Thpoere are no notions of importance in categorical topology.
+C. There are no notions of importance in categorical topology.
 
 2. A notion of central importance in categorical topology is that of topological functor.
 N. There are many  notions of central importance in categorical topology.
@@ -27,18 +27,21 @@ C. In the nilpotent case, this nerve is not known to be a Kan complex.
 
 3. In the nilpotent case, this nerve is known to be a Kan complex.
 N. This nerve is not known to be a Kan complex.
-%%machine says contradiction, we're right, only in the nilpotent case can we guarantee a contradiction.
+%%DeBerta says contradiction, human is right, only in the nilpotent case can we guarantee a contradiction.
+%%GPT4 says contradiction, Larry says "The premise only talks about the nilpotent case.  Since the hypothesis is more general, the relation between the hypothesis and the premise should be a neutral.
+
 
 4. We worked through numerous examples to demonstrate the power of these notions.
 E. We worked through two examples to demonstrate the power of these notions.
 %%DeBerta thinks it's a contradiction, humans think that numerous examples => two examples. not changing example
-%% Larry says:"Usuallly 'numerous' implies 'at least two', and in the hypothesis, 'two' probably allows us to use 'at least two'. 
+%% Larry says: "Usuallly 'numerous' implies 'at least two', and in the hypothesis, 'two' probably allows us to use 'at least two'. 
 
 4. We worked through numerous examples to demonstrate the power of these notions.
 C. We did not work through numerous examples to demonstrate the power of these notions.
 
 4. We worked through numerous examples to demonstrate the power of these notions.
 N. We worked through numerous examples to deny the power of these notions.
+%% GPT4 says contradiction. Larry agrees. Valeria says that demonstrate is not the antonym of deny, the sentences are consistent.
 
 5. If the category is additive, we define a sheaf of categories of analytic functions.
 E. If the category is additive, we define a sheaf of categories of functions.
@@ -48,7 +51,8 @@ C. If the category is additive, we do not define a sheaf of categories of analyt
 
 5. If the category is additive, we define a sheaf of categories of analytic functions.
 %%N. we can define a sheaf of categories of analytic functions.
-%%DeBerta says entailment, human is wrong, It is entailment because of the modal "can", I think. change example to
+%%DeBerta says entailment. Valeria says it is entailment because of the modal "can". Larry says "The premise starts out "If the category is additive".  So one cannot just delete that phrase. If you delete the "If" clause in a sentence, you usually get something which is neutral.
+Valeria suggests changing the example to
 N: If the category is non-additive, we define a sheaf of categories of analytic functions.
 
 6. We use these relations to define analytic versions of Arakelov compactifications of affine arithmetic varieties.
@@ -70,7 +74,7 @@ C. They are not used in the paper  to prove Corollary~8.3.
 
 7. They are used in the paper only to prove Corollary~8.3.
 N. They are used in the paper  to prove Corollary~8.5.
-%% machine says contradiction, human is wrong. changing example to ???
+%% machine says contradiction, machine is right, human is wrong. how to change example ???
 
 8. A proof of this corollary is given without them.
 E. There exists a proof of this corollary.
@@ -112,7 +116,8 @@ C: This result is not related to any of the previous constructions of quotient t
 11. This result unifies many previous constructions of quotient triangulated categories.
 N: This result does not subsume some of the previous constructions of quotient triangulated categories.
 %% Comment: it is not really clear what exactly "unify" means
-%% machine says contradiction, keep as is?
+%% DeBerta says contradiction, keep as is? GPT4 says contradiction. Larry says nothing?
+%% Valeria says result unifies some constructions, does not subsume others, to be contradiction you'd need to know that all the constructions unified were exactly the same as the ones not subsumed?
 
 12. We study extra assumptions on pretopologies that are needed for this theory.
 E: We investigate additional assumptions on pretopologies that are needed for this theory.
@@ -122,6 +127,7 @@ C: However, we will not be concerned with extra assumptions on pretopologies nee
 
 12. We study extra assumptions on pretopologies that are needed for this theory.
 N: We do not study the basic assumptions on pretopologies that are needed for this theory.
+%%Larry says "One could study *extra* assumptions but not the *basic* assumptions.  So this one is neutral.
 
 13. We check these extra assumptions in several categories with pretopologies.
 E: We check these extra assumptions in at least one category with a pretopology.
@@ -198,11 +204,12 @@ C:  The result is a double category C//G which does not describe the local symme
 
 20. The result is a double category C//G which describes the local symmetries of C.
 N: The result describes both local and non-local symmetries of C.
+%% GPT4 says contradiction, Larry says "The premise mentions a result that describes local symmetries. That same result could possibly describe some of the non-local symmetries. " 
+
 
 21. There are few known computable examples of non-abelian surface holonomy.
 E: There are some known examples of non-abelian surface holonomy.
 %% GPT4 says neutral, Larry says "Usually 'few' implies that whatever is discussed exists.   So that's why this one is an entailment.
-
 
 21. There are few known computable examples of non-abelian surface holonomy.
 C: There are no known computable examples of non-abelian surface holonomy.
@@ -210,7 +217,7 @@ C: There are no known computable examples of non-abelian surface holonomy.
 21. There are few known computable examples of non-abelian surface holonomy.
 N: There are few known examples of non-abelian surface holonomy.
 %% DeBerta says entailment, machine wrong, computable examples can be few, but examples can be many, keep it
-
+%% GPT4 also says entailment, Larry says:"Just because there are few known *computable* examples does not mean that there are few known examples.  So this one is neutral."
 
 22. Using these ideas, we also prove that magnetic monopoles form an abelian group.
 E:  Using these ideas, we also prove that magnetic monopoles form a group.
@@ -265,6 +272,8 @@ C: The effect of a bundle of Lie groups is non-trivial.
 
 26. The effect of any bundle of Lie groups is trivial.
 N: Groups always have effects.
+%%GTP4 says contradiction. Larry says "Since the premise says "Lie groups", if we delete the word "Lie" inside a phrase starting with "any", we should expect to get something neutral." Valeria says no, the premise is not connected to the hypothesis at all, but she agrees machine is wrong.
+
 
 27.  All quotients of a given Lie groupoid determine the same effect.
 E:  Any two quotients of a given Lie groupoid determine the same effect.
