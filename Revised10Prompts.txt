@@ -51,8 +51,9 @@ C. If the category is additive, we do not define a sheaf of categories of analyt
 
 5. If the category is additive, we define a sheaf of categories of analytic functions.
 %%N. we can define a sheaf of categories of analytic functions.
-%%DeBerta says entailment. Valeria says it is entailment because of the modal "can". Larry says "The premise starts out "If the category is additive".  So one cannot just delete that phrase. If you delete the "If" clause in a sentence, you usually get something which is neutral.
-Valeria suggests changing the example to
+%%DeBerta says entailment. Valeria says it is entailment because of the modal "can". 
+%%Larry says "The premise starts out "If the category is additive".  So one cannot just delete that phrase. If you delete the "If" clause in a sentence, you usually get something which is neutral.
+%%Valeria suggests changing the example to
 N: If the category is non-additive, we define a sheaf of categories of analytic functions.
 
 6. We use these relations to define analytic versions of Arakelov compactifications of affine arithmetic varieties.
