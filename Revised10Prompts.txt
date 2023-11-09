@@ -14,7 +14,7 @@ N. There are no interesting categories related to topology.
 E. Topological functor is a notion of categorical topology.
 
 2. A notion of central importance in categorical topology is that of topological functor.
-C. There are no notions of importance in categorical topology.
+C. Thpoere are no notions of importance in categorical topology.
 
 2. A notion of central importance in categorical topology is that of topological functor.
 N. There are many  notions of central importance in categorical topology.
@@ -224,7 +224,7 @@ E: We introduce a 3-dimensional categorical structure.
 
 23.  We introduce a 3-dimensional categorical structure which we call intercategory.
 C: In a previous paper, we introduced a 3-dimensional categorical structure which we called intercategory.
-% Larry says contradiction, DeBerta says neutral, Valeria says we should not use this temporal example. she suggests
+% Larry says contradiction, "If the paper introduces some concept, then that concept could not have been introduced in a previous paper." DeBerta, GPT4 says neutral, Valeria says we should not use this temporal example. she suggests
 C: We introduce a 2-dimensional categorical structure which we call intercategory.
 
 23.  We introduce a 3-dimensional categorical structure which we call intercategory.
@@ -255,7 +255,7 @@ E: Lie groups sometimes appear in bundles.
 
 26. The effect of any bundle of Lie groups is trivial.
 %% C: The effect of any bundle of Lie groups is 0.
-%% neutral says DeBerta, Valeria says we should change the example. suggestion
+%% neutral says DeBerta, GPT4 Valeria says we should change the example. suggestion
 C: The effect of a bundle of Lie groups is non-trivial.
 
 26. The effect of any bundle of Lie groups is trivial.
@@ -268,7 +268,8 @@ E: All quotients of a given Lie groupoid determine some effect.
 
 27.  All quotients of a given Lie groupoid determine the same effect.
 C: Lie groupoids effectively have just one quotient.
-%% effect is unique not quotient?
+%% effect is unique not quotient? GPT4 says neutral, suggested rewriting
+C: Quotients of a Lie groupoid determine different effects.
 
 27.  All quotients of a given Lie groupoid determine the same effect.
 N: A Lie groupoid has either zero or one quotient.
