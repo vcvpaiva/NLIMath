@@ -31,7 +31,8 @@ N. This nerve is not known to be a Kan complex.
 
 4. We worked through numerous examples to demonstrate the power of these notions.
 E. We worked through two examples to demonstrate the power of these notions.
-%%DeBerta thinks it's contradiction, humans think that numerous examples => two examples. not changing example
+%%DeBerta thinks it's a contradiction, humans think that numerous examples => two examples. not changing example
+%% Larry says:"Usuallly 'numerous' implies 'at least two', and in the hypothesis, 'two' probably allows us to use 'at least two'. 
 
 4. We worked through numerous examples to demonstrate the power of these notions.
 C. We did not work through numerous examples to demonstrate the power of these notions.
@@ -200,6 +201,8 @@ N: The result describes both local and non-local symmetries of C.
 
 21. There are few known computable examples of non-abelian surface holonomy.
 E: There are some known examples of non-abelian surface holonomy.
+%% GPT4 says neutral, Larry says "Usually 'few' implies that whatever is discussed exists.   So that's why this one is an entailment.
+
 
 21. There are few known computable examples of non-abelian surface holonomy.
 C: There are no known computable examples of non-abelian surface holonomy.
@@ -232,6 +235,7 @@ N: An intercategory is a category with a 3-dimensional intercategorical structur
 
 24. We show that these fit together to produce a strict triple category of intercategories.
 E: We show that these fit together to produce a category of intercategories.
+%% GPT4 says contradiction. Larry says "Every strict triple category is a category, so this is an entailment."
 
 24. We show that these fit together to produce a strict triple category of intercategories.
 C: We doubt that these fit together to produce a strict triple category of intercategories.
@@ -252,10 +256,11 @@ N: This is the third paper on this topic.
 
 26. The effect of any bundle of Lie groups is trivial.
 E: Lie groups sometimes appear in bundles.
+%%GPT4 says neutral, Larry says "The premise speaks of any 'bundle of Lie groups'.  Even if the word 'bundle' is a technical term that we don't know, the premise implies that Lie groups might appear in bundles. Valeria agrees.
 
 26. The effect of any bundle of Lie groups is trivial.
 %% C: The effect of any bundle of Lie groups is 0.
-%% neutral says DeBerta, GPT4 Valeria says we should change the example. suggestion
+%% neutral says DeBerta, GPT4. Valeria says we should change the example. suggestion
 C: The effect of a bundle of Lie groups is non-trivial.
 
 26. The effect of any bundle of Lie groups is trivial.
@@ -286,14 +291,18 @@ N: Proper smooth stacks may always be presented.
 
 29) This paper extends the Day Reflection Theorem to skew monoidal categories.
 E:  This paper extends the Day Reflection Theorem to a family of monoidal categories.
+%% GPT4 says neutral
+%% Larry says "Every skew monoidal category should be a monoidal category.  (We don't know this for sure, but it is a good guess.)"
+%% but Valeria says we know this is not the case, citing the paper in question
+
 
 29) This paper extends the Day Reflection Theorem to skew monoidal categories.
 C: This paper derives the Day Reflection Theorem from skew monoidal categories.
 
 29) This paper extends the Day Reflection Theorem to skew monoidal categories.
 N: This paper extends the Day Reflection Theorem to monoidal categories.
-%%machine says entailment: extending the theorem to skew monoidal categories does not mean extending it to monoidal categories
-as skew monoidal categories are not monoidal categories
+%%machines say entailment: but extending the theorem to skew monoidal categories does not mean extending it to monoidal categories
+as skew monoidal categories are NOT monoidal categories
 
 30) We also give a presentation for FinRelk.
 E: We also exhibit a presentation for FinRelk.
