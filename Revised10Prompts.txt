@@ -1,4 +1,4 @@
-%% Building an NLI corpus from TAC sentences/Revising prompts after chatGPT/GPT4 checks
+%% Building an NLI corpus from TAC sentences/Revised prompts after chatGPT/GPT4 checks and discussion
 
 1. We use a number of interesting categories related to probability theory.
 E. There exists a number of interesting categories related to probability theory.
@@ -8,7 +8,6 @@ C. There are no interesting categories related to probability theory.
 
 1. We use a number of interesting categories related to probability theory.
 N. There are no interesting categories related to topology.
-% DeBerta says contradiction, human says neutral. machine is wrong. probability theory and topology are disjoint, it's not a contradiction
 
 2. A notion of central importance in categorical topology is that of topological functor.
 E. Topological functor is a notion of categorical topology.
@@ -27,21 +26,16 @@ C. In the nilpotent case, this nerve is not known to be a Kan complex.
 
 3. In the nilpotent case, this nerve is known to be a Kan complex.
 N. This nerve is not known to be a Kan complex.
-%%DeBerta says contradiction, human is right, only in the nilpotent case can we guarantee a contradiction.
-%%GPT4 says contradiction, Larry says "The premise only talks about the nilpotent case.  Since the hypothesis is more general, the relation between the hypothesis and the premise should be a neutral.
-
 
 4. We worked through numerous examples to demonstrate the power of these notions.
 E. We worked through two examples to demonstrate the power of these notions.
-%%DeBerta thinks it's a contradiction, humans think that numerous examples => two examples. not changing example
-%% Larry says: "Usuallly 'numerous' implies 'at least two', and in the hypothesis, 'two' probably allows us to use 'at least two'. 
 
 4. We worked through numerous examples to demonstrate the power of these notions.
 C. We did not work through numerous examples to demonstrate the power of these notions.
 
 4. We worked through numerous examples to demonstrate the power of these notions.
-N. We worked through numerous examples to deny the power of these notions.
-%% GPT4 says contradiction. Larry agrees. Valeria says that demonstrate is not the antonym of deny, the sentences are consistent.
+%N. We worked through numerous examples to deny the power of these notions.
+%N. We worked through numerous examples and denied the power of these notions.
 
 5. If the category is additive, we define a sheaf of categories of analytic functions.
 E. If the category is additive, we define a sheaf of categories of functions.
@@ -50,10 +44,6 @@ E. If the category is additive, we define a sheaf of categories of functions.
 C. If the category is additive, we do not define a sheaf of categories of analytic functions.
 
 5. If the category is additive, we define a sheaf of categories of analytic functions.
-%%N. we can define a sheaf of categories of analytic functions.
-%%DeBerta says entailment. Valeria says it is entailment because of the modal "can". 
-%%Larry says "The premise starts out "If the category is additive".  So one cannot just delete that phrase. If you delete the "If" clause in a sentence, you usually get something which is neutral.
-%%Valeria suggests changing the example to
 N: If the category is non-additive, we define a sheaf of categories of analytic functions.
 
 6. We use these relations to define analytic versions of Arakelov compactifications of affine arithmetic varieties.
@@ -63,29 +53,25 @@ E. We can define analytic versions of Arakelov compactifications of affine arith
 C. These relations cannot be used to define analytic versions of Arakelov compactifications of affine arithmetic varieties.
 
 6. We use these relations to define analytic versions of Arakelov compactifications of affine arithmetic varieties.
-%%N. We use these relations to define analytic versions of  compactifications of affine arithmetic varieties.
-%% DeBerta says entailment, human is wrong, if Arakelov compactification => compactification. need a different example for neutral.
 N: We use these relations to define analytic versions of  compactifications of non-varieties.
 
-7. They are used in the paper only to prove Corollary~8.3.
-E. They are used in the paper  to prove Corollary~8.3.
+7. These functors are used in the paper only to prove Corollary~8.3.
+E. These functors are used in the paper  to prove Corollary~8.3.
 
-7. They are used in the paper only to prove Corollary~8.3.
-C. They are not used in the paper  to prove Corollary~8.3.
+7. These functors are used in the paper only to prove Corollary~8.3.
+C. These functors are not used in the paper  to prove Corollary~8.3.
 
-7. They are used in the paper only to prove Corollary~8.3.
-N. They are used in the paper  to prove Corollary~8.5.
-%% machine says contradiction, machine is right, human is wrong. how to change example ???
+7. These functors are used in the paper only to prove Corollary~8.3.
+N. These natural transformations are used in the paper  to prove Corollary~8.5.
 
-8. A proof of this corollary is given without them.
+8. A proof of this corollary is given without details.
 E. There exists a proof of this corollary.
 
-8. A proof of this corollary is given without them.
-C. There is no proof of this corollary without them.
+8. A proof of this corollary is given without details.
+C. There is no proof of this corollary without details.
 
-8. A proof of this corollary is given without them.
-N. A proof of this corollary is given with these
-%% machine says contradiction, not neutral. need to change example?
+8. A proof of this corollary is given without details.
+N. A proof of this corollary is given without a program.
 
 9. Here ``balanced'' can be omitted if the category is additive.
 E. For additive categories ``balanced" can be omitted here.
@@ -94,8 +80,7 @@ E. For additive categories ``balanced" can be omitted here.
 C. Here ``balanced'' cannot be omitted if the category is additive.
 
 9. Here ``balanced'' can be omitted if the category is additive.
-N. Here ``balanced'' can be omitted.
-%%machine says entailment, human says neutral need newexample???
+N. Here ``balanced'' can be omitted if the category is multiplicative.
 
 10. We introduce the notion of mutation pairs in pseudo-triangulated categories.
 E. We introduce the notion of mutation pairs.
@@ -104,9 +89,7 @@ E. We introduce the notion of mutation pairs.
 C. We cannot introduce the notion of mutation pairs in pseudo-triangulated categories.
 
 10. We introduce the notion of mutation pairs in pseudo-triangulated categories.
-%%N. We introduce the notion of mutation pairs in pseudo-triangulated categories.
-%% machine says entailment, human is wrong. rewriting:
-N: We introduce the notation of pairs in pseudo-triangulated categories.
+N: We introduce the notation of mutation pairs in monoidal categories.
 
 11. This result unifies many previous constructions of quotient triangulated categories.
 E: This result unifies some previous constructions of quotient triangulated categories.
@@ -115,10 +98,7 @@ E: This result unifies some previous constructions of quotient triangulated cate
 C: This result is not related to any of the previous constructions of quotient triangulated categories.
 
 11. This result unifies many previous constructions of quotient triangulated categories.
-N: This result does not subsume some of the previous constructions of quotient triangulated categories.
-%% Comment: it is not really clear what exactly "unify" means
-%% DeBerta says contradiction, keep as is? GPT4 says contradiction. Larry says nothing?
-%% Valeria says result unifies some constructions, does not subsume others, to be contradiction you'd need to know that all the constructions unified were exactly the same as the ones not subsumed?
+N: This result unifies all previous constructions of quotient triangulated categories.
 
 12. We study extra assumptions on pretopologies that are needed for this theory.
 E: We investigate additional assumptions on pretopologies that are needed for this theory.
@@ -128,7 +108,6 @@ C: However, we will not be concerned with extra assumptions on pretopologies nee
 
 12. We study extra assumptions on pretopologies that are needed for this theory.
 N: We do not study the basic assumptions on pretopologies that are needed for this theory.
-%%Larry says "One could study *extra* assumptions but not the *basic* assumptions.  So this one is neutral.
 
 13. We check these extra assumptions in several categories with pretopologies.
 E: We check these extra assumptions in at least one category with a pretopology.
@@ -137,8 +116,8 @@ E: We check these extra assumptions in at least one category with a pretopology.
 C: We will not check these extra assumptions in categories with pretopologies.
 
 13. We check these extra assumptions in several categories with pretopologies.
-N: We check these extra assumptions in many categories with pretopologies.
-%% machine says entailment, several=> many, need to change example
+N: We check these extra assumptions in  categories with tensor products.
+
 
 14. Functors between groupoids may be localised at equivalences in two ways.
 E: Functors between groupoids can be localised at equivalences.
@@ -157,7 +136,6 @@ C: It was shown that these two approaches give distinct bicategories.
 
 15. We show that both approaches give equivalent bicategories.
 N: Both approaches give the same bicategory.
-%%machine says entailment, machine is wrong, as equivalent bicategories don't have to be the same. Bad example?
 
 16. In this paper, we use the language of operads to study open dynamical systems.
 E: We study dynamical systems in this paper.
@@ -199,26 +177,19 @@ N: There exist many pairs of gradings related by isomorphisms which change the d
 E: The result is a category.
 
 20.  The result is a double category C//G which describes the local symmetries of C.
-%%C: The result is a Riemann surface of genus 3 with 2 marked points.
-%% not clear that this is a contradiction w/o knowing the concepts. suggested revision
 C:  The result is a double category C//G which does not describe the local symmetries of C.
 
 20. The result is a double category C//G which describes the local symmetries of C.
 N: The result describes both local and non-local symmetries of C.
-%% GPT4 says contradiction, Larry says "The premise mentions a result that describes local symmetries. That same result could possibly describe some of the non-local symmetries. " 
-
 
 21. There are few known computable examples of non-abelian surface holonomy.
 E: There are some known examples of non-abelian surface holonomy.
-%% GPT4 says neutral, Larry says "Usually 'few' implies that whatever is discussed exists.   So that's why this one is an entailment.
 
 21. There are few known computable examples of non-abelian surface holonomy.
 C: There are no known computable examples of non-abelian surface holonomy.
 
 21. There are few known computable examples of non-abelian surface holonomy.
 N: There are few known examples of non-abelian surface holonomy.
-%% DeBerta says entailment, machine wrong, computable examples can be few, but examples can be many, keep it
-%% GPT4 also says entailment, Larry says:"Just because there are few known *computable* examples does not mean that there are few known examples.  So this one is neutral."
 
 22. Using these ideas, we also prove that magnetic monopoles form an abelian group.
 E:  Using these ideas, we also prove that magnetic monopoles form a group.
@@ -227,15 +198,12 @@ E:  Using these ideas, we also prove that magnetic monopoles form a group.
 C:  Using these ideas, we disprove the conjecture that magnetic monopoles form a group.
 
 22. Using these ideas, we also prove that magnetic monopoles form an abelian group.
-N: Using these ideas, we also prove that monopoles form a semigroup.
-%% machine says contradiction, maybe one needs to know that abelian group=> group => semigroup
+N: Using these ideas, we also prove that monopoles form an abelian group.
 
 23.  We introduce a 3-dimensional categorical structure which we call intercategory.
 E: We introduce a 3-dimensional categorical structure.
 
 23.  We introduce a 3-dimensional categorical structure which we call intercategory.
-C: In a previous paper, we introduced a 3-dimensional categorical structure which we called intercategory.
-% Larry says contradiction, "If the paper introduces some concept, then that concept could not have been introduced in a previous paper." DeBerta, GPT4 says neutral, Valeria says we should not use this temporal example. she suggests
 C: We introduce a 2-dimensional categorical structure which we call intercategory.
 
 23.  We introduce a 3-dimensional categorical structure which we call intercategory.
@@ -243,14 +211,12 @@ N: An intercategory is a category with a 3-dimensional intercategorical structur
 
 24. We show that these fit together to produce a strict triple category of intercategories.
 E: We show that these fit together to produce a category of intercategories.
-%% GPT4 says contradiction. Larry says "Every strict triple category is a category, so this is an entailment."
 
 24. We show that these fit together to produce a strict triple category of intercategories.
 C: We doubt that these fit together to produce a strict triple category of intercategories.
 
 24. We show that these fit together to produce a strict triple category of intercategories.
 N: Three intercategories fit together to produce a strict triple.
-%% DeBerta thinks it's entailment but a strict triple category is not a strict triple
 
 25. This is the third paper in a series.
 E: This paper is part of a series.
@@ -260,35 +226,24 @@ C: This is the fourth paper in a series.
 
 25. This is the third paper in a series.
 N: This is the third paper on this topic.
-%% DeBerta thinks is entailment, but there might be many more other papers on the topic, which are not in the series
 
 26. The effect of any bundle of Lie groups is trivial.
 E: Lie groups sometimes appear in bundles.
-%%GPT4 says neutral, Larry says "The premise speaks of any 'bundle of Lie groups'.  Even if the word 'bundle' is a technical term that we don't know, the premise implies that Lie groups might appear in bundles. Valeria agrees.
 
 26. The effect of any bundle of Lie groups is trivial.
-%% C: The effect of any bundle of Lie groups is 0.
-%% neutral says DeBerta, GPT4. Valeria says we should change the example. suggestion
 C: The effect of a bundle of Lie groups is non-trivial.
 
 26. The effect of any bundle of Lie groups is trivial.
 N: Groups always have effects.
-%%GTP4 says contradiction. Larry says "Since the premise says "Lie groups", if we delete the word "Lie" inside a phrase starting with "any", we should expect to get something neutral." Valeria says no, the premise is not connected to the hypothesis at all, but she agrees machine is wrong.
-
 
 27.  All quotients of a given Lie groupoid determine the same effect.
-E:  Any two quotients of a given Lie groupoid determine the same effect.
-%%DeBerta says contradiction, humans say entailment but this depends on non-vacuous quantification? suggested new entailment w/o bare plurals
 E: All quotients of a given Lie groupoid determine some effect.
 
 27.  All quotients of a given Lie groupoid determine the same effect.
-C: Lie groupoids effectively have just one quotient.
-%% effect is unique not quotient? GPT4 says neutral, suggested rewriting
 C: Quotients of a Lie groupoid determine different effects.
 
 27.  All quotients of a given Lie groupoid determine the same effect.
 N: A Lie groupoid has either zero or one quotient.
-%% DeBerta says contradiction, machine wrong
 
 28. Our analysis is relevant to the presentation theory of proper smooth stacks.
 E: Proper smooth stacks may sometimes be presented.
@@ -299,28 +254,24 @@ C: Our analysis does not have anything to say about the presentation theory of p
 28. Our analysis is relevant to the presentation theory of proper smooth stacks.
 N: Proper smooth stacks may always be presented.
 
-29) This paper extends the Day Reflection Theorem to skew monoidal categories.
-E:  This paper extends the Day Reflection Theorem to a family of monoidal categories.
-%% GPT4 says neutral
-%% Larry says "Every skew monoidal category should be a monoidal category.  (We don't know this for sure, but it is a good guess.)"
-%% but Valeria says we know this is not the case, citing the paper in question
+29. This paper extends the Day Reflection Theorem to  monoidal categories.
+E:  This paper extends the Day Reflection Theorem to a family of categories.
 
-
-29) This paper extends the Day Reflection Theorem to skew monoidal categories.
+29. This paper extends the Day Reflection Theorem to skew monoidal categories.
 C: This paper derives the Day Reflection Theorem from skew monoidal categories.
 
-29) This paper extends the Day Reflection Theorem to skew monoidal categories.
+29. This paper extends the Day Reflection Theorem to skew monoidal categories.
 N: This paper extends the Day Reflection Theorem to monoidal categories.
-%%machines say entailment: but extending the theorem to skew monoidal categories does not mean extending it to monoidal categories
-as skew monoidal categories are NOT monoidal categories
 
-30) We also give a presentation for FinRelk.
+30. We also give a presentation for FinRelk.
 E: We also exhibit a presentation for FinRelk.
 
-30) We also give a presentation for FinRelk.
+30. We also give a presentation for FinRelk.
 C: There is no presentation for FinRelk.
 
-30) We also give a presentation for FinRelk.
+30. We also give a presentation for FinRelk.
 N: This is the first time that anyone gives a presentation for FinRelk.
+
+
 
  
