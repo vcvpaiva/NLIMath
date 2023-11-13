@@ -34,8 +34,7 @@ E. We worked through two examples to demonstrate the power of these notions.
 C. We did not work through numerous examples to demonstrate the power of these notions.
 
 4. We worked through numerous examples to demonstrate the power of these notions.
-%N. We worked through numerous examples to deny the power of these notions.
-%N. We worked through numerous examples and denied the power of these notions.
+N. We denied the power of these notions.
 
 5. If the category is additive, we define a sheaf of categories of analytic functions.
 E. If the category is additive, we define a sheaf of categories of functions.
