@@ -34,7 +34,7 @@ E. We worked through two examples to demonstrate the power of these notions.
 C. We did not work through numerous examples to demonstrate the power of these notions.
 
 4. We worked through numerous examples to demonstrate the power of these notions.
-N. We denied the power of these notions.
+N. N: We worked through more than 20 examples to demonstrate the power of these notions.
 
 5. If the category is additive, we define a sheaf of categories of analytic functions.
 E. If the category is additive, we define a sheaf of categories of functions.
@@ -70,7 +70,7 @@ E. There exists a proof of this corollary.
 C. There is no proof of this corollary without details.
 
 8. A proof of this corollary is given without details.
-N. A proof of this corollary is given without a program.
+N. A proof of this corollary is given without a computer program.
 
 9. Here ``balanced'' can be omitted if the category is additive.
 E. For additive categories ``balanced" can be omitted here.
