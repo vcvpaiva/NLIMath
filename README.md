@@ -5,7 +5,7 @@ A repo for  experiments in "math concept identification" using the TAC corpus an
 The TAC corpus can be found at https://github.com/ToposInstitute/tac-corpus.
 
 A selection of 436 sentences of the TAC corpus (some are empty), selected by size (not too big, not too small) and lack of LaTeX is in
-https://github.com/ToposInstitute/tac-corpus/blob/main/golden-attempt/examples.txt and is repeated here for convenience as Experiment2.txt.
+https://github.com/ToposInstitute/tac-corpus/blob/main/golden-attempt/examples.txt and is repeated here for convenience both as Experiment2.txt in the folder Experiment436 and as the file 436sentences.txt 
 
 The nLab corpus (from around 2020) is at https://github.com/ToposInstitute/nlab-corpus.
 
@@ -14,7 +14,7 @@ Short guidelines for mathematician annotation already  agreed:
 
 1. Try to treat math concepts as black boxes, as much as possible.
 
-2.  Use the singular, instead of the plural, for concepts.
+2.  Use the singular, instead of the plural, for concepts. Use no Capitals for concepts, as much as possible.
   
 3.  If one has a long span that is a concept, e.g. “enriched accessible categories”, we should also list the sensible subspans like “accessible category”.
 
