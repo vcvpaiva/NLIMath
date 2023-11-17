@@ -34,7 +34,7 @@ E. We worked through two examples to demonstrate the power of these notions.
 C. We did not work through numerous examples to demonstrate the power of these notions.
 
 4. We worked through numerous examples to demonstrate the power of these notions.
-N. N: We worked through more than 20 examples to demonstrate the power of these notions.
+N. We worked through more than 20 examples to demonstrate the power of these notions.
 
 5. If the category is additive, we define a sheaf of categories of analytic functions.
 E. If the category is additive, we define a sheaf of categories of functions.
@@ -131,7 +131,7 @@ N: Localisation of functors between groupoids is used to prove Theorem 5.3.
 E: Both approaches yield equivalent bicategories.
 
 15. We show that both approaches give equivalent bicategories.
-C: It was shown that these two approaches give distinct bicategories.
+C: It was shown that these two approaches give bicategories with very different bicategorical properties.
 
 15. We show that both approaches give equivalent bicategories.
 N: Both approaches give the same bicategory.
