@@ -1,0 +1,152 @@
+Second batch of prompts, using sentences from the 436 experiment. 10 x 3 pairs from Larry, Pavel and Valeria
+
+31. These modules and their modulations then give rise to a bicategory.
+E:  We can define a bicategory from these modules and their modulations.
+C:  These modules and their modulations cannot give rise to a bicategory.
+N:  Every module and its modulations give rise to a bicategory.
+
+32. We give an explicit construction of the category Opetope of opetopes.
+E:  We give a construction of the category Opetope of opetopes.
+C:  It is an open question to give an explicit construction of the category Opetope of opetopes.
+N:  The category of opetopes was previously constructed by someone named Opetope.
+
+33. This result encompasses many known and new examples of quasitopoi.
+E:  This result encompasses new examples of quasitopoi.
+C:  This result shows that quasitopoi do not exist.
+N:  This result also implies new properties of quasitopoi.
+
+34. We take some first steps in providing a synthetic theory of distributions.
+E: We take some steps in providing a synthetic theory of distributions.
+C: We know that someone else has provided a synthetic theory of distributions.
+N: We do not think it will be easy to take the next steps.
+
+35. We introduce various notions of partial topos, i.e. `topos without terminal object'.
+E:  A partial topos is a topos without a terminal object.
+C:  There is only one notion of partial topos.
+N:  We also introduce various notions of topos with a terminal object.
+
+36. Examples for the weaker notions are local homeomorphisms and discrete fibrations.
+E:  Local homeomorphisms are examples of the weaker notions, as are discrete fibrations.
+C: Discrete fibrations are not examples of the weaker notions.
+N: Local homeomorphisms and discrete fibrations are also examples of the stronger notions.
+
+37. In such a framework, the globular nerve always satisfies the Kan condition.
+E:  Sometimes the globular nerve satisfies the Kan condition.
+C:  In no framework does the globular nerve satisfy the Kan condition.
+N:  The globular nerve only satisfies the Kan condition under very special assumptions.
+
+38. We give a categorical discussion of such results.
+E:  We discuss a certain result mentioning categorical ideas.
+C:  We cannot possibly give a categorical discussion of such results.
+N:  We also give a categorical discussion of other results.
+
+39. Another is to make clear which parts of the proofs of such results are formal.
+E:   Parts of the proofs of such results are formal.
+C:   The proofs of such results are completely informal.
+N:   Parts of the proofs of such results are informal.
+
+40. In this case we recover the notion of a linear bicategory.
+E:   We recover the notion of a linear bicategory.
+C:   In this case the notion of a linear bicategory cannot be recovered.
+N:   The notion of a linear bicategory has been recovered several times.
+
+41. The poly notions of functors, modules and their transformations are introduced as well.
+E: There exists a poly notion of transformation of functors.
+C: Nobody has ever studied poly notions of functors and their transformations.
+N: The poly notions of rings are introduced as well.
+
+42. In many applications of quasigroups isotopies and homotopies are more important than isomorphisms and homomorphisms.
+E: Isotopies and homotopies are more important than isomorphisms and homomorphisms in some applications of quasigroups.
+C: Isomorphisms and homomorphisms are always more important than isotopies and homotopies.
+N: In all applications of quasigroups, isotopies are more important than isomorphisms.
+
+43. Those classes are natural examples of reflective subcategories defined by proper classes of morphisms.
+E: Those classes are examples of certain reflective subcategories.
+C: It is an open question whether any examples of reflective subcategories defined by proper classes of morphisms exist.
+N: Those classes are natural examples of several important phenomena that were observed by Grothendieck in the 1970s.
+
+44. The paper develops the previously proposed approach to constructing factorization systems in general categories.
+E: The paper focuses on constructing factorization systems.
+C: The paper relies on no previous results.
+N: The paper introduces the important notion of skew factorization system, which is helpful in constructing factorization systems in general categories.
+
+45. The problem of relating a factorization system to a pointed endofunctor is considered.
+E: There is a problem of relating a pointed endofunctor to a factorization system.
+C: A factorization system can be easily related to anything without any problem arising.
+N: A pointed endofunctor cannot be related to a factorization system.
+
+46. Some relevant examples in concrete categories are given.
+E: Relevant examples in some categories are given.
+C: No relevant examples in any categories exist.
+N: Some relevant examples in the category of topological spaces are given.
+
+47. We characterize semi-abelian monadic categories and their localizations.
+E: We discuss some monadic categories.
+C: No characterization of semi-abelian monadic categories has been found so far.
+N: We characterize abelian monadic categories and their localizations.
+
+48. However, we also present a non-varietor satisfying Birkhoff's Variety Theorem.
+E: There exists a non-varietor satisfying Birkhoff's Variety Theorem.
+C: No non-varietors satisfy Birkhoff's Variety Theorem.
+N: We present three non-varietors satisfying Birkhoff's Variety Theorem.
+
+49. It turns out that many categorical properties are well behaved under enlargements.
+E: Some categorical properties are well behaved under enlargements.
+C: No categorical properties are well behaved under enlargements.
+N: All categorical properties are well behaved under enlargements.
+
+50. We describe a completion of gms's by Cauchy filters of formal balls.
+E: There exists a completion of gms's by Cauchy filters of formal balls.
+C: No completion of gms's by Cauchy filters of formal balls exists.
+N: It is easy to describe a completion of gms's by Cauchy filters of formal balls.
+
+51. This paper proposes a recursive definition of V-n-categories and their morphisms.
+E: This paper is about a definition of V-n-categories.
+C: This paper only discusses the definition of V-n-categories, not their morphisms, which will be introduced in a companion paper.
+N: This paper proposes a definition of V-categories.
+
+52. Our result relies heavily on some unpublished work of A. Kock from 1989.
+E:  A. Kock did some unpublished work on the topic of this work.
+C: Our result relies only on the published  work of A. Kock.
+N: Our work relies on published and unpublished work of A. Kock.
+
+53. The required simplicial approximation results for simplicial sets and their proofs are given in full.
+E: Simplicial approximation results for simplicial sets are proved.
+C: The required simplicial approximation results for simplicial sets and their proofs are barely sketched.
+N: Approximation results for simplicial sets and their proofs
+
+54. Subdivision behaves like a covering in the context of the techniques displayed here.
+E: Subdivision can behave like a covering.
+C: In the context of the techniques displayed here subdivision does not behave like a covering.
+N: Subdivision and other techniques do not mix well.
+
+55. Several exact sequences, relative to a subfunctor of the identity functor, are obtained.
+E: We obtain exact sequences relative to a subfunctor of the identity functor.
+C: No exact sequence relative to a subfunctor of the identity functor is obtained.
+N: An exact sequence relative to the product functor is known.
+
+56. The resulting notion of centrality fits into Janelidze and Kelly's theory of central extensions.
+E: Janelidze and Kelly's theory of central extensions has a resulting notion of centrality.
+C: Janelidze and Kelly's theory of central extensions has no notion of centrality.
+N: Janelidze and Kelly's theory of central extensions has a notion of acentrality.
+
+57. The centre of a monoidal category is a braided monoidal category.
+E: Braided monoidal categories can be centres of other categories.
+C: The centre of a monoidal category is a monoidal category with no braid structure.
+N: A braided monoidal category has a centre.
+
+58. Monoidal categories are monoidal objects (or pseudomonoids) in the monoidal bicategory of categories.
+E: The monoidal bicategory of categories has monoidal objects.
+C: There are no monoidal objects in the monoidal bicategory of categories.
+N: The monoidal bicategory of categories has  symmetric monoidal objects.
+
+59. Some properties and sufficient conditions for existence of the construction are examined.
+E: Sufficient conditions for existence of the construction are examined
+C: The construction has no properties.
+N: We show precisely when the construction exists.
+
+60. Having many corollaries, this was an extremely useful result.
+E: This result has at least two corollaries.
+C: The corollaries made this result useless.
+N: This useful result had no precedents.
+
