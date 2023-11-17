@@ -17,7 +17,7 @@ N:  This result also implies new properties of quasitopoi.
 
 34. We take some first steps in providing a synthetic theory of distributions.
 E: We take some steps in providing a synthetic theory of distributions.
-C: We know that someone else has provided a synthetic theory of distributions.
+C: We build on synthetic theories of many others in order to provide a synthetic theory of distributions.
 N: We do not think it will be easy to take the next steps.
 
 35. We introduce various notions of partial topos, i.e. `topos without terminal object'.
