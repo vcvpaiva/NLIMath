@@ -2,7 +2,7 @@ Second batch of prompts, using sentences from the 436 experiment. 10 x 3 pairs f
 
 31. These modules and their modulations then give rise to a bicategory.
 E:  We can define a bicategory from these modules and their modulations.
-C:  These modules and their modulations cannot give rise to a bicategory.
+C:  It would be a mistake to think that these modules and their modulations give rise to a bicategory.
 N:  Every module and its modulations give rise to a bicategory.
 
 32. We give an explicit construction of the category Opetope of opetopes.
@@ -12,7 +12,7 @@ N:  The category of opetopes was previously constructed by someone named Opetope
 
 33. This result encompasses many known and new examples of quasitopoi.
 E:  This result encompasses new examples of quasitopoi.
-C:  This result shows that quasitopoi do not exist.
+C:   This result is far from the topic of quasitopoi.
 N:  This result also implies new properties of quasitopoi.
 
 34. We take some first steps in providing a synthetic theory of distributions.
@@ -37,7 +37,7 @@ N:  The globular nerve only satisfies the Kan condition under very special assum
 
 38. We give a categorical discussion of such results.
 E:  We discuss a certain result mentioning categorical ideas.
-C:  We cannot possibly give a categorical discussion of such results.
+C:  We  give a discussion of such results using concepts drawn entirely from partial differential equations..
 N:  We also give a categorical discussion of other results.
 
 39. Another is to make clear which parts of the proofs of such results are formal.
@@ -82,7 +82,7 @@ N: Some relevant examples in the category of topological spaces are given.
 
 47. We characterize semi-abelian monadic categories and their localizations.
 E: We discuss some monadic categories.
-C: No characterization of semi-abelian monadic categories has been found so far.
+C: Semi-abelian monadic categories lack localizations.
 N: We characterize abelian monadic categories and their localizations.
 
 48. However, we also present a non-varietor satisfying Birkhoff's Variety Theorem.
@@ -149,4 +149,5 @@ N: We show precisely when the construction exists.
 E: This result has at least two corollaries.
 C: The corollaries made this result useless.
 N: This useful result had no precedents.
+
 
