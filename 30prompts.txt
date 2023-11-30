@@ -1,0 +1,164 @@
+This paper introduces the notions of vector field and flow on a general differentiable stack.
+E: This paper introduces the notion of vector field on a general differentiable stack.
+C: Vector fields on a differentiable stack are undefinable.
+N: The field of vectors contains a different stack of papers, but this one is the first to introduce the notion of a general differentiable stack.
+
+Both of them generalise the concept of algebra on a monad T.
+E: The concept of algebra on a monad T is more special than both of them.
+C: Both of them are special cases of a monadic algebra.
+N: Both concepts are interesting.
+
+We define eventually cyclic Boolean flows and the eventually cyclic spectrum of a Boolean flow.
+E: We define the eventually cyclic spectrum of a Boolean flow and also eventually cyclic Boolean flows.
+C: Without defining them, we use the concepts of an eventually cyclic Boolean flow and the eventually cyclic spectrum of a Boolean flow.
+N: The definition of the eventually cyclic spectrum of a Boolean flow uses the definition of eventually cyclic Boolean flows.
+
+The axioms resemble those for monoidal Abelian categories with the addition of an involutive functor.
+E: The axioms are similar to those for monoidal Abelian categories, but we also make us of a functor which is involutive.
+C: The axioms have a very different flavor from those for monoidal Abelian categories with involutive functors.
+N: The axioms bear a very strong resemblance to those for monoidal Abelian categories, even with the addition of an involutive functor.
+
+p: Neither enrichment nor a complex base field is presupposed.
+E: A complex base field is not presupposed.
+C: A complex base field is presupposed.
+N: Field in this paper are not complex.
+
+A comparison to other approaches will be made in the introduction.
+E:  In the introduction, we compare our work to that work in other papers.
+C:  We decided to omit an introduction and instead discuss other approaches.
+N:  Other approaches will be made in the introduction.
+
+Distributive laws between monads (triples) were defined by Jon Beck in the 1960s.
+E: Jon Beck defined distributive laws between triples.
+C: Jon Beck failed to define distributive laws between monads (triples) in the 1960s.
+N: The main point of Jon Beck's paper was to generalize distributive laws from arithmetic to monads (triples).
+
+For such a class of spaces homotopy orthogonality implies enriched orthogonality.
+E: For such a class of spaces enriched orthogonality is implied by homotopy orthogonality.
+C: For such a class of spaces homotopy orthogonality implies and also contradicts enriched orthogonality.
+N: For such a class of spaces enriched orthogonality implies homotopy orthogonality.
+
+The state space of a machine admits the structure of time.
+E:  The state space of a machine has a temporal structure.
+C: The state space of a machine is static.
+N: Like time itself, the state space of a machine has loops.
+
+In the general case, no such meaningful partition could exist.
+E: In general case, no such meaningful partition exists.
+C: There is a meaningful partition in general.
+N: In special cases, the partition is very meaningful.
+
+The present paper starts by supplying this last clause with a precise meaning.
+E: The present paper supplies a precise meaning to this last clause.
+C: The present paper treats the last clause in an informal but meaningful way.
+N: The precise meaning of the last clause is given in the beginning and the end of this paper.
+
+Under condition (I), every multiplicative graph is an internal category.
+E: Under condition (I), every multiplicative graph is a category.
+C: Under condition (I), there exists a multiplicative graph that is not a category.
+N: Under condition (I), every graph is an internal category.
+
+We describe a simplified categorical approach to Galois descent theory.
+E: We present an approach to Galois descent theory that has a categorical nature.
+C: We will not be concerned with Galois descent theory.
+N: Up to this point, nobody has studied categorical approaches to Galois descent theory.
+
+Now coproduct preservation yields an approach to product measures.
+E: Some approach to product measures results from coproduct preservation.
+C: Product measures are not related to coproduct preservation.
+N: Now the preservation of product measures yields coproduct preservation. 
+
+Then we present three applications of groupoidification.
+E: We present at least two applications of groupoidification.
+C: Groupoidification is a purely theoretic concept that cannot be applied to anything.
+N: Earlier we presented four applications of groupoidification.
+
+The second application is to Hecke algebras.
+E: The second application involves some algebras.
+C: Only one application exists.
+N: The second application is to Hall algebras.
+
+The ``if" directions fail for semi-abelian varieties.
+E: The ``if" directions cannot be proved for semi-abelian varieties.
+C: The ``if" directions can be proved for semi-abelian varieties.
+N: The ``only if" directions fail for semi-abelian varieties.
+
+We compute some simple examples and explore the elementary properties of these invariants.
+E: We will be concerned with some properties of certain invariants.
+C: We compute some simple examples of these invariants, but we will not be concerned with their properties.
+N: We explore the elementary properties of these invariants and prove that no other invariants exist.
+
+Symbolic dynamics is partly the study of walks in a directed graph.
+E: The study of walks in a directed graph is related to symbolic dynamics.
+C: It is not known whether symbolic dynamics can be connected to graph theory.
+N: Symbolic dynamics is partly the study of strolls in a directed graph.
+
+To each graph we associate a basal graph, well defined up to isomorphism.
+E: A basal graph can be associated with each graph.
+C: While it is possible to assign a basal graph to each graph, this correspondence is never well defined.
+N: To each graph we associate a basal graph, well defined up to a unique isomorphism.
+
+We combine two recent ideas: cartesian differential categories, and restriction categories.
+E: The idea of restriction categories is not old.
+C: The combination of restriction categories and cartesian differential categories is impossible.
+N: We combine three ideas: cartesian differential categories, restriction categories, and Hall algebras.
+
+The category of Set-valued presheaves on a small category B is a topos.
+E: The category of Set-valued presheaves on a small category C is a topos.
+C: There exists a small category C such that the category of Set-valued presheaves on C is not a topos.
+N: The category of Set-valued presheaves on a category B is a topos.
+
+A flow on a compact Hausdorff space is an automorphism.
+E: A flow on a compact Hausdorff space is an endomorphism.
+C: No flow on a compact Hausdorff space is an automorphism.
+N: A flow on a Hausdorff space is an automorphism
+
+Vertical arrows give rise to modules between representables.
+E: Some arrows give rise to modules between representables.
+C: Modules between representables have no interaction with vertical arrows.
+N: Horizontal arrows give rise to modules between representables.
+
+Various concerns suggest looking for internal co-categories in categories with strong logical structure.
+E: We looked for internal co-categories with strong logical structure.
+C: We abandon the idea of looking for internal co-categories in categories with a strong logical structure.
+N: We suggest looking for internal co-categories.
+
+We give a new proof of the fact that every topos is adhesive.
+E: We give a proof that each topos is adhesive.
+C: We give a new proof that every topos is non-adhesive.
+N: We conjecture that every topos is  also non-adhesive.
+
+We compare various different definitions of "the category of smooth objects".
+E: We have several definitions of "the category of smooth objects".
+C: No one has given a definition of "the category of smooth objects".
+N: No one has given a definition of "the bicategory of smooth objects".
+
+We indicate also some possible novel geometric interest in such algebras.
+E: We suggest some novel geometric interest in such algebras.
+C: We fail to see any possible geometric interest in such algebras.
+N: We suggest some novel geometric interest in such coalgebras.
+
+In this paper we will give a new, elementary proof of this result.
+E: We give a proof of this result.
+C: In this paper we give the old, original proof of this result.
+N: In this paper we will give a number=theoretic proof of this result.
+
+We clarify details of that work.
+E: We provide details of that work.
+C: That work cannot be clarified.
+N: We give details of a special case of that work.
+
+Our main conceptual tool is a monad on the category of grouped toposes.
+E: We use as a conceptual tool a monad on the category of grouped toposes.
+C: We do not have a conceptual tool for this problem.
+N: Our main conceptual tool is a comonad on the category of grouped toposes.
+
+We also discuss some new examples and results motivated by this characterization.
+E: We discuss this characterization.
+C: We refrain from discussing examples and results motivated by this characterization.
+N: We also discuss new functors motivated by this characterization.
+
+It also gives an easy way to calculate the sources and targets of opetopes.
+E: This gives a way to calculate the sources of opetopes.
+C: This gives a hard way to calculate the sources and targets of opetopes.
+N: It also gives an easy way to calculate the sources and targets of polytopes.
