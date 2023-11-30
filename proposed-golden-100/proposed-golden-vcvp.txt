@@ -1,7 +1,6 @@
 2-category
 3-dimensional category
 Arakelov compactification
-Birkhoff's theorem
 Birkhoff's variety theorem
 Day reflection theorem
 Dedekind completion
