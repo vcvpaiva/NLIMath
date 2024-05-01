@@ -7,7 +7,9 @@ https://github.com/MathGloss/MathGloss/blob/main/alignments/chicago-maps.txt
 
 We know there are some 120 Chicago concepts not mapped to Wikidata in https://github.com/MathGloss/MathGloss/blob/main/chicago.md
 
-What I want to do now is to see what GPT-4 makes out as the concepts in Chicago notes. at least the 620=500+120 manually extracted by Lucy should be there.
-If we use the method we outlined in https://arxiv.org/abs/2309.00642 we can use mathAnnotator to check the other concepts.
+What I want to do now is to see what GPT-4 makes of extracting the concepts in Chicago notes. 
+at least the 620=500+120 concepts manually extracted by Lucy should be there.
+
+If we use the method we outlined in our preprint https://arxiv.org/abs/2309.00642 we can use mathAnnotator to check the other concepts.
 
 
