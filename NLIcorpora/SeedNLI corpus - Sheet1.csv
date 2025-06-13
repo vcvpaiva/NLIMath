@@ -1,0 +1,280 @@
+premise,hypothesis
+We use a number of interesting categories related to probability theory.,There exists a number of interesting categories related to probability theory.
+We use a number of interesting categories related to probability theory.,There are no interesting categories related to probability theory.
+We use a number of interesting categories related to probability theory.,There are no interesting categories related to topology.
+A notion of central importance in categorical topology is that of topological functor.,Topological functor is a notion of categorical topology.
+A notion of central importance in categorical topology is that of topological functor.,There are no notions of importance in categorical topology.
+A notion of central importance in categorical topology is that of topological functor.,There are many notions of central importance in categorical topology.
+"In the nilpotent case, this nerve is known to be a Kan complex.",There are nerves that are Kan complexes.
+"In the nilpotent case, this nerve is known to be a Kan complex.","In the nilpotent case, this nerve is not known to be a Kan complex."
+"In the nilpotent case, this nerve is known to be a Kan complex.",This nerve is not known to be a Kan complex.
+We worked through numerous examples to demonstrate the power of these notions.,We worked through two examples to demonstrate the power of these notions.
+We worked through numerous examples to demonstrate the power of these notions.,We did not work through numerous examples to demonstrate the power of these notions.
+We worked through numerous examples to demonstrate the power of these notions.,We worked through more than 20 examples to demonstrate the power of these notions.
+"If the category is additive, we define a sheaf of categories of analytic functions.","If the category is additive, we define a sheaf of categories of functions."
+"If the category is additive, we define a sheaf of categories of analytic functions.","If the category is additive, we do not define a sheaf of categories of analytic functions."
+"If the category is additive, we define a sheaf of categories of analytic functions.","If the category is non-additive, we define a sheaf of categories of analytic functions."
+We use these relations to define analytic versions of Arakelov compactifications of affine arithmetic varieties.,We can define analytic versions of Arakelov compactifications of affine arithmetic varieties.
+We use these relations to define analytic versions of Arakelov compactifications of affine arithmetic varieties.,These relations cannot be used to define analytic versions of Arakelov compactifications of affine arithmetic varieties.
+We use these relations to define analytic versions of Arakelov compactifications of affine arithmetic varieties.,We use these relations to define analytic versions of compactifications of non-varieties.
+These functors are used in the paper only to prove corollary 8.3.,These functors are used in the paper to prove corollary 8.3.
+These functors are used in the paper only to prove corollary 8.3.,These functors are not used in the paper  to prove corollary 8.3.
+These functors are used in the paper only to prove corollary 8.3.,These natural transformations are used in the paper to prove corollary 8.5.
+A proof of this corollary is given without details.,There exists a proof of this corollary.
+A proof of this corollary is given without details.,There is no proof of this corollary without details.
+A proof of this corollary is given without details.,A proof of this corollary is given without a computer program.
+Here ``balanced'' can be omitted if the category is additive.,"For additive categories ``balanced"" can be omitted here."
+Here ``balanced'' can be omitted if the category is additive.,Here ``balanced'' cannot be omitted if the category is additive.
+Here ``balanced'' can be omitted if the category is additive.,Here ``balanced'' can be omitted if the category is multiplicative.
+We introduce the notion of mutation pairs in pseudo-triangulated categories.,We introduce the notion of mutation pairs.
+We introduce the notion of mutation pairs in pseudo-triangulated categories.,We cannot introduce the notion of mutation pairs in pseudo-triangulated categories.
+We introduce the notion of mutation pairs in pseudo-triangulated categories.,We introduce the notation of mutation pairs in monoidal categories.
+This result unifies many previous constructions of quotient triangulated categories.,This result unifies some previous constructions of quotient triangulated categories.
+This result unifies many previous constructions of quotient triangulated categories.,This result is not related to any of the previous constructions of quotient triangulated categories.
+This result unifies many previous constructions of quotient triangulated categories.,This result unifies all previous constructions of quotient triangulated categories.
+We study extra assumptions on pretopologies that are needed for this theory.,We investigate additional assumptions on pretopologies that are needed for this theory.
+We study extra assumptions on pretopologies that are needed for this theory.,"However, we will not be concerned with extra assumptions on pretopologies needed for this theory."
+We study extra assumptions on pretopologies that are needed for this theory.,We do not study the basic assumptions on pretopologies that are needed for this theory.
+We check these extra assumptions in several categories with pretopologies.,We check these extra assumptions in at least one category with a pretopology.
+We check these extra assumptions in several categories with pretopologies.,We will not check these extra assumptions in categories with pretopologies.
+We check these extra assumptions in several categories with pretopologies.,We check these extra assumptions in  categories with tensor products.
+Functors between groupoids may be localised at equivalences in two ways.,Functors between groupoids can be localised at equivalences.
+Functors between groupoids may be localised at equivalences in two ways.,"Unfortunately, it is not possible to localise functors between groupoids at equivalences."
+Functors between groupoids may be localised at equivalences in two ways.,Localisation of functors between groupoids is used to prove Theorem 5.3.
+We show that both approaches give equivalent bicategories.,Both approaches yield equivalent bicategories.
+We show that both approaches give equivalent bicategories.,It was shown that these two approaches give bicategories with very different bicategorical properties.
+We show that both approaches give equivalent bicategories.,Both approaches give the same bicategory.
+"In this paper, we use the language of operads to study open dynamical systems.",We study dynamical systems in this paper.
+"In this paper, we use the language of operads to study open dynamical systems.",We will not be concerned with the language of operads.
+"In this paper, we use the language of operads to study open dynamical systems.",The study of open dynamical systems requires the language of operads.
+The syntactic architecture of such interconnections is encoded using the visual language of wiring diagrams.,Wiring diagrams are related to the syntactic architecture of such interconnections.
+The syntactic architecture of such interconnections is encoded using the visual language of wiring diagrams.,Such interconnections lack any syntactic structure.
+The syntactic architecture of such interconnections is encoded using the visual language of wiring diagrams.,The only way to encode the syntactic structure of such interconnections is by means of the visual language of wiring diagrams.
+Moreover it enables us to characterise operads as categorical polynomial monads in a canonical way.,Operads can be characterised as categorical polynomial monads.
+Moreover it enables us to characterise operads as categorical polynomial monads in a canonical way.,"Operads can be characterised as categorical polynomial monads; however, no canonical way of doing so exists."
+Moreover it enables us to characterise operads as categorical polynomial monads in a canonical way.,There is exactly one way to characterise operads as categorical polynomial monads.
+We have two useful gradings related by isomorphisms which change the degree.,There exist some gradings related by isomorphisms which change the degree.
+We have two useful gradings related by isomorphisms which change the degree.,No two gradings which change the degree are isomorphic.
+We have two useful gradings related by isomorphisms which change the degree.,There exist many pairs of gradings related by isomorphisms which change the degree.
+The result is a double category C//G which describes the local symmetries of C.,The result is a category.
+The result is a double category C//G which describes the local symmetries of C.,The result is a double category C//G which does not describe the local symmetries of C.
+The result is a double category C//G which describes the local symmetries of C.,The result describes both local and non-local symmetries of C.
+There are few known computable examples of non-abelian surface holonomy.,There are some known examples of non-abelian surface holonomy.
+There are few known computable examples of non-abelian surface holonomy.,There are no known computable examples of non-abelian surface holonomy.
+There are few known computable examples of non-abelian surface holonomy.,There are few known examples of non-abelian surface holonomy.
+"Using these ideas, we also prove that magnetic monopoles form an abelian group.","Using these ideas, we also prove that magnetic monopoles form a group."
+"Using these ideas, we also prove that magnetic monopoles form an abelian group.","Using these ideas, we disprove the conjecture that magnetic monopoles form a group."
+"Using these ideas, we also prove that magnetic monopoles form an abelian group.","Using these ideas, we also prove that monopoles form an abelian group."
+We introduce a 3-dimensional categorical structure which we call intercategory.,We introduce a 3-dimensional categorical structure.
+We introduce a 3-dimensional categorical structure which we call intercategory.,We introduce a 2-dimensional categorical structure which we call intercategory.
+We introduce a 3-dimensional categorical structure which we call intercategory.,An intercategory is a category with a 3-dimensional intercategorical structure.
+We show that these fit together to produce a strict triple category of intercategories.,We show that these fit together to produce a category of intercategories.
+We show that these fit together to produce a strict triple category of intercategories.,We doubt that these fit together to produce a strict triple category of intercategories.
+We show that these fit together to produce a strict triple category of intercategories.,Three intercategories fit together to produce a strict triple.
+This is the third paper in a series.,This paper is part of a series.
+This is the third paper in a series.,This is the fourth paper in a series.
+This is the third paper in a series.,This is the third paper on this topic.
+The effect of any bundle of Lie groups is trivial.,Lie groups sometimes appear in bundles.
+The effect of any bundle of Lie groups is trivial.,The effect of a bundle of Lie groups is non-trivial.
+The effect of any bundle of Lie groups is trivial.,Groups always have effects.
+All quotients of a given Lie groupoid determine the same effect.,All quotients of a given Lie groupoid determine some effect.
+All quotients of a given Lie groupoid determine the same effect.,Quotients of a Lie groupoid determine different effects.
+All quotients of a given Lie groupoid determine the same effect.,A Lie groupoid has either zero or one quotient.
+Our analysis is relevant to the presentation theory of proper smooth stacks.,Proper smooth stacks may sometimes be presented.
+Our analysis is relevant to the presentation theory of proper smooth stacks.,Our analysis does not have anything to say about the presentation theory of proper smooth stacks.
+Our analysis is relevant to the presentation theory of proper smooth stacks.,Proper smooth stacks may always be presented.
+This paper extends the Day Reflection Theorem to  monoidal categories.,This paper extends the Day Reflection Theorem to a family of categories.
+This paper extends the Day Reflection Theorem to skew monoidal categories.,"The Day Reflection Theorem is beyond the scope of this paper, and we will not address it."
+This paper extends the Day Reflection Theorem to skew monoidal categories.,This paper extends the Day Reflection Theorem to monoidal categories.
+We also give a presentation for FinRelk.,We also exhibit a presentation for FinRelk.
+We also give a presentation for FinRelk.,There is no presentation for FinRelk.
+We also give a presentation for FinRelk.,This is the first time that anyone gives a presentation for FinRelk.
+These modules and their modulations then give rise to a bicategory.,We can define a bicategory from these modules and their modulations.
+These modules and their modulations then give rise to a bicategory.,It would be a mistake to think that these modules and their modulations give rise to a bicategory.
+These modules and their modulations then give rise to a bicategory.,Every module and its modulations give rise to a bicategory.
+We give an explicit construction of the category Opetope of opetopes.,We give a construction of the category Opetope of opetopes.
+We give an explicit construction of the category Opetope of opetopes.,It is an open question to give an explicit construction of the category Opetope of opetopes.
+We give an explicit construction of the category Opetope of opetopes.,The category of opetopes was previously constructed by someone named Opetope.
+This result encompasses many known and new examples of quasitopoi.,This result encompasses new examples of quasitopoi.
+This result encompasses many known and new examples of quasitopoi.,This result is far from the topic of quasitopoi.
+This result encompasses many known and new examples of quasitopoi.,This result also implies new properties of quasitopoi.
+We take some first steps in providing a synthetic theory of distributions.,We take some steps in providing a synthetic theory of distributions.
+We take some first steps in providing a synthetic theory of distributions.,"First steps in providing a synthetic theory of distributions date back to the previous century, and we will not reiterate them."
+We take some first steps in providing a synthetic theory of distributions.,We do not think it will be easy to take the next steps.
+"We introduce various notions of partial topos, i.e. `topos without terminal object'.",A partial topos is a topos without a terminal object.
+"We introduce various notions of partial topos, i.e. `topos without terminal object'.",There is only one notion of partial topos.
+"We introduce various notions of partial topos, i.e. `topos without terminal object'.",We also introduce various notions of topos with a terminal object.
+Examples for the weaker notions are local homeomorphisms and discrete fibrations.,"Local homeomorphisms are examples of the weaker notions, as are discrete fibrations."
+Examples for the weaker notions are local homeomorphisms and discrete fibrations.,Discrete fibrations are not examples of the weaker notions.
+Examples for the weaker notions are local homeomorphisms and discrete fibrations.,Local homeomorphisms and discrete fibrations are also examples of the stronger notions.
+"In such a framework, the globular nerve always satisfies the Kan condition.",Sometimes the globular nerve satisfies the Kan condition.
+"In such a framework, the globular nerve always satisfies the Kan condition.",In no framework does the globular nerve satisfy the Kan condition.
+"In such a framework, the globular nerve always satisfies the Kan condition.",The globular nerve only satisfies the Kan condition under very special assumptions.
+We give a categorical discussion of such results.,We discuss a certain result mentioning categorical ideas.
+We give a categorical discussion of such results.,"We discuss such results, but our discussion will not be categorical."
+We give a categorical discussion of such results.,We also give a categorical discussion of other results.
+Another is to make clear which parts of the proofs of such results are formal.,Parts of the proofs of such results are formal.
+Another is to make clear which parts of the proofs of such results are formal.,The proofs of such results are completely informal.
+Another is to make clear which parts of the proofs of such results are formal.,Parts of the proofs of such results are informal.
+In this case we recover the notion of a linear bicategory.,We recover the notion of a linear bicategory.
+In this case we recover the notion of a linear bicategory.,In this case the notion of a linear bicategory cannot be recovered.
+In this case we recover the notion of a linear bicategory.,The notion of a linear bicategory has been recovered several times.
+"The poly notions of functors, modules and their transformations are introduced as well.",There exists a poly notion of transformation of functors.
+"The poly notions of functors, modules and their transformations are introduced as well.",Nobody has ever studied poly notions of functors and their transformations.
+"The poly notions of functors, modules and their transformations are introduced as well.",The poly notions of rings are introduced as well.
+In many applications of quasigroups isotopies and homotopies are more important than isomorphisms and homomorphisms.,Isotopies and homotopies are more important than isomorphisms and homomorphisms in some applications of quasigroups.
+In many applications of quasigroups isotopies and homotopies are more important than isomorphisms and homomorphisms.,Isomorphisms and homomorphisms are always more important than isotopies and homotopies.
+In many applications of quasigroups isotopies and homotopies are more important than isomorphisms and homomorphisms.,"In all applications of quasigroups, isotopies are more important than isomorphisms."
+Those classes are natural examples of reflective subcategories defined by proper classes of morphisms.,Those classes are examples of certain reflective subcategories.
+Those classes are natural examples of reflective subcategories defined by proper classes of morphisms.,It is an open question whether any examples of reflective subcategories defined by proper classes of morphisms exist.
+Those classes are natural examples of reflective subcategories defined by proper classes of morphisms.,Those classes are natural examples of several important phenomena that were observed by Grothendieck in the 1970s.
+The paper develops the previously proposed approach to constructing factorization systems in general categories.,The paper focuses on constructing factorization systems.
+The paper develops the previously proposed approach to constructing factorization systems in general categories.,The paper relies on no previous results.
+The paper develops the previously proposed approach to constructing factorization systems in general categories.,"The paper introduces the important notion of skew factorization system, which is helpful in constructing factorization systems in general categories."
+The problem of relating a factorization system to a pointed endofunctor is considered.,There is a problem of relating a pointed endofunctor to a factorization system.
+The problem of relating a factorization system to a pointed endofunctor is considered.,The problem of relating a factorization system to a pointed endofunctor is not discussed.
+The problem of relating a factorization system to a pointed endofunctor is considered.,A pointed endofunctor cannot be related to a factorization system.
+Some relevant examples in concrete categories are given.,Relevant examples in some categories are given.
+Some relevant examples in concrete categories are given.,No relevant examples in any categories exist.
+Some relevant examples in concrete categories are given.,Some relevant examples in the category of topological spaces are given.
+We characterize semi-abelian monadic categories and their localizations.,We discuss some monadic categories.
+We characterize semi-abelian monadic categories and their localizations.,Semi-abelian monadic categories lack localizations.
+We characterize semi-abelian monadic categories and their localizations.,We characterize abelian monadic categories and their localizations.
+"However, we also present a non-varietor satisfying Birkhoff's Variety Theorem.",There exists a non-varietor satisfying Birkhoff's Variety Theorem.
+"However, we also present a non-varietor satisfying Birkhoff's Variety Theorem.",No non-varietors satisfy Birkhoff's Variety Theorem.
+"However, we also present a non-varietor satisfying Birkhoff's Variety Theorem.",We present three non-varietors satisfying Birkhoff's Variety Theorem.
+It turns out that many categorical properties are well behaved under enlargements.,Some categorical properties are well behaved under enlargements.
+It turns out that many categorical properties are well behaved under enlargements.,No categorical properties are well behaved under enlargements.
+It turns out that many categorical properties are well behaved under enlargements.,All categorical properties are well behaved under enlargements.
+We describe a completion of gms's by Cauchy filters of formal balls.,There exists a completion of gms's by Cauchy filters of formal balls.
+We describe a completion of gms's by Cauchy filters of formal balls.,No completion of gms's by Cauchy filters of formal balls exists.
+We describe a completion of gms's by Cauchy filters of formal balls.,It is easy to describe a completion of gms's by Cauchy filters of formal balls.
+This paper proposes a recursive definition of V-n-categories and their morphisms.,This paper is about a definition of V-n-categories.
+This paper proposes a recursive definition of V-n-categories and their morphisms.,"This paper only discusses the definition of V-n-categories, not their morphisms, which will be introduced in a companion paper."
+This paper proposes a recursive definition of V-n-categories and their morphisms.,This paper proposes a definition of V-categories.
+Our result relies heavily on some unpublished work of A. Kock from 1989.,A. Kock did some unpublished work on the topic of this work.
+Our result relies heavily on some unpublished work of A. Kock from 1989.,Our result relies only on the published  work of A. Kock.
+Our result relies heavily on some unpublished work of A. Kock from 1989.,Our work relies on published and unpublished work of A. Kock.
+The required simplicial approximation results for simplicial sets and their proofs are given in full.,Simplicial approximation results for simplicial sets are proved.
+The required simplicial approximation results for simplicial sets and their proofs are given in full.,The required simplicial approximation results for simplicial sets and their proofs are barely sketched.
+The required simplicial approximation results for simplicial sets and their proofs are given in full.,Simplicial approximation results for quasi-categories are omitted.
+Subdivision behaves like a covering in the context of the techniques displayed here.,Subdivision can behave like a covering.
+Subdivision behaves like a covering in the context of the techniques displayed here.,In the context of the techniques displayed here subdivision does not behave like a covering.
+Subdivision behaves like a covering in the context of the techniques displayed here.,Subdivision and other techniques do not mix well.
+"Several exact sequences, relative to a subfunctor of the identity functor, are obtained.",We obtain exact sequences relative to a subfunctor of the identity functor.
+"Several exact sequences, relative to a subfunctor of the identity functor, are obtained.",No exact sequence relative to a subfunctor of the identity functor is obtained.
+"Several exact sequences, relative to a subfunctor of the identity functor, are obtained.",An exact sequence relative to the product functor is known.
+The resulting notion of centrality fits into Janelidze and Kelly's theory of central extensions.,Janelidze and Kelly's theory of central extensions has a resulting notion of centrality.
+The resulting notion of centrality fits into Janelidze and Kelly's theory of central extensions.,Janelidze and Kelly's theory of central extensions has no notion of centrality.
+The resulting notion of centrality fits into Janelidze and Kelly's theory of central extensions.,Janelidze and Kelly's theory of central extensions has a notion of acentrality.
+The centre of a monoidal category is a braided monoidal category.,Braided monoidal categories can be centres of other categories.
+The centre of a monoidal category is a braided monoidal category.,The centre of a monoidal category is a monoidal category with no braid structure.
+The centre of a monoidal category is a braided monoidal category.,A braided monoidal category has a centre.
+Monoidal categories are monoidal objects (or pseudomonoids) in the monoidal bicategory of categories.,The monoidal bicategory of categories has monoidal objects.
+Monoidal categories are monoidal objects (or pseudomonoids) in the monoidal bicategory of categories.,There are no monoidal objects in the monoidal bicategory of categories.
+Monoidal categories are monoidal objects (or pseudomonoids) in the monoidal bicategory of categories.,The monoidal bicategory of categories has  symmetric monoidal objects.
+Some properties and sufficient conditions for existence of the construction are examined.,Sufficient conditions for existence of the construction are examined
+Some properties and sufficient conditions for existence of the construction are examined.,The construction has no properties.
+Some properties and sufficient conditions for existence of the construction are examined.,We show precisely when the construction exists.
+"Having many corollaries, this was an extremely useful result.",This result has at least two corollaries.
+"Having many corollaries, this was an extremely useful result.",The corollaries made this result useless.
+"Having many corollaries, this was an extremely useful result.",This useful result had no precedents.
+This paper introduces the notions of vector field and flow on a general differentiable stack.,This paper introduces the notion of vector field on a general differentiable stack.
+This paper introduces the notions of vector field and flow on a general differentiable stack.,Vector fields on a differentiable stack are undefinable.
+This paper introduces the notions of vector field and flow on a general differentiable stack.,This paper generalizes the notions of vector field and flow on a stack.
+Both of them generalise the concept of algebra on a monad T.,The concept of algebra on a monad T is more special than both of them.
+Both of them generalise the concept of algebra on a monad T.,Exactly one of them generalises the concept of algebra on a monad T.
+Both of them generalise the concept of algebra on a monad T.,Both concepts are interesting.
+We define eventually cyclic Boolean flows and the eventually cyclic spectrum of a Boolean flow.,We define the eventually cyclic spectrum of a Boolean flow and also eventually cyclic Boolean flows.
+We define eventually cyclic Boolean flows and the eventually cyclic spectrum of a Boolean flow.,"Without defining them, we use the concepts of an eventually cyclic Boolean flow and the eventually cyclic spectrum of a Boolean flow."
+We define eventually cyclic Boolean flows and the eventually cyclic spectrum of a Boolean flow.,The definition of the eventually cyclic spectrum of a Boolean flow uses the definition of eventually cyclic Boolean flows.
+The axioms resemble those for monoidal Abelian categories with the addition of an involutive functor.,"The axioms are similar to those for monoidal Abelian categories, but we also make us of a functor which is involutive."
+The axioms resemble those for monoidal Abelian categories with the addition of an involutive functor.,The axioms have a very different flavor from those for monoidal Abelian categories with involutive functors.
+The axioms resemble those for monoidal Abelian categories with the addition of an involutive functor.,The axioms are the ones of monoidal Abelian categories.
+Neither enrichment nor a complex base field is presupposed.,A complex base field is not presupposed.
+Neither enrichment nor a complex base field is presupposed.,A complex base field is presupposed.
+Neither enrichment nor a complex base field is presupposed.,The base field assumed is the real numbers.
+A comparison to other approaches will be made in the introduction.,"In the introduction, we compare our work to that work in other papers."
+A comparison to other approaches will be made in the introduction.,We decided to omit an introduction and instead discuss other approaches.
+A comparison to other approaches will be made in the introduction.,Other approaches will be made in the introduction.
+Distributive laws between monads (triples) were defined by Jon Beck in the 1960s.,Jon Beck defined distributive laws between triples.
+Distributive laws between monads (triples) were defined by Jon Beck in the 1960s.,Jon Beck failed to define distributive laws between monads (triples) in the 1960s.
+Distributive laws between monads (triples) were defined by Jon Beck in the 1960s.,The main point of Jon Beck's paper was to generalize distributive laws from arithmetic to monads (triples).
+For such a class of spaces homotopy orthogonality implies enriched orthogonality.,For such a class of spaces enriched orthogonality is implied by homotopy orthogonality.
+For such a class of spaces homotopy orthogonality implies enriched orthogonality.,For such a class of spaces homotopy orthogonality implies and also contradicts enriched orthogonality.
+For such a class of spaces homotopy orthogonality implies enriched orthogonality.,For such a class of spaces enriched orthogonality implies homotopy orthogonality.
+The state space of a machine admits the structure of time.,The state space of a machine has a temporal structure.
+The state space of a machine admits the structure of time.,The state space of a machine is static.
+The state space of a machine admits the structure of time.,"Like time itself, the state space of a machine has loops."
+"In the general case, no such meaningful partition could exist.","In general case, no such meaningful partition exists."
+"In the general case, no such meaningful partition could exist.",There is a meaningful partition in general.
+"In the general case, no such meaningful partition could exist.","In special cases, the partition is very meaningful."
+The present paper starts by supplying this last clause with a precise meaning.,The present paper supplies a precise meaning to this last clause.
+The present paper starts by supplying this last clause with a precise meaning.,We will not be concerned with giving this last clause a precise meaning.
+The present paper starts by supplying this last clause with a precise meaning.,The precise meaning of the last clause is given in the beginning and the end of this paper.
+"Under condition (I), every multiplicative graph is an internal category.","Under condition (I), every multiplicative graph is a category."
+"Under condition (I), every multiplicative graph is an internal category.","Under condition (I), there exists a multiplicative graph that is not a category."
+"Under condition (I), every multiplicative graph is an internal category.","Under condition (I), every graph is an internal category."
+We describe a simplified categorical approach to Galois descent theory.,We present an approach to Galois descent theory that has a categorical nature.
+We describe a simplified categorical approach to Galois descent theory.,We will not be concerned with Galois descent theory.
+We describe a simplified categorical approach to Galois descent theory.,"The previous categorical approach to Galois descent theory was correct, but convoluted."
+Now coproduct preservation yields an approach to product measures.,Some approach to product measures results from coproduct preservation.
+Now coproduct preservation yields an approach to product measures.,Product measures are not related to coproduct preservation.
+Now coproduct preservation yields an approach to product measures.,Now the preservation of product measures yields coproduct preservatioN:
+Then we present three applications of groupoidification.,We present at least two applications of groupoidification.
+Then we present three applications of groupoidification.,Groupoidification is a purely theoretic concept that cannot be applied to anything.
+Then we present three applications of groupoidification.,Two of the three applications that we present are well-known.
+The second application is to Hecke algebras.,The second application involves some algebras.
+The second application is to Hecke algebras.,Only one application exists.
+The second application is to Hecke algebras.,Hall algebras can also be an application.
+"The ``if"" directions fail for semi-abelian varieties.","The ``if"" directions cannot be proved for semi-abelian varieties."
+"The ``if"" directions fail for semi-abelian varieties.","The ``if"" directions can be proved for semi-abelian varieties."
+"The ``if"" directions fail for semi-abelian varieties.","The ``only if"" directions fail for semi-abelian varieties."
+We compute some simple examples and explore the elementary properties of these invariants.,We will be concerned with some properties of certain invariants.
+We compute some simple examples and explore the elementary properties of these invariants.,"We compute some simple examples of these invariants, but we will not be concerned with their properties."
+We compute some simple examples and explore the elementary properties of these invariants.,We explore the elementary properties of these invariants and prove that no other invariants exist.
+Symbolic dynamics is partly the study of walks in a directed graph.,The study of walks in a directed graph is related to symbolic dynamics.
+Symbolic dynamics is partly the study of walks in a directed graph.,It is not known whether symbolic dynamics can be connected to graph theory.
+Symbolic dynamics is partly the study of walks in a directed graph.,Symbolic dynamics is partly the study of strolls in a directed graph.
+"To each graph we associate a basal graph, well defined up to isomorphism.",A basal graph can be associated with each graph.
+"To each graph we associate a basal graph, well defined up to isomorphism.","While it is possible to assign a basal graph to each graph, this correspondence is never well defined."
+"To each graph we associate a basal graph, well defined up to isomorphism.","To each graph we associate a basal graph, well defined up to a unique isomorphism."
+"We combine two recent ideas: cartesian differential categories, and restriction categories.",The idea of restriction categories is not old.
+"We combine two recent ideas: cartesian differential categories, and restriction categories.",The combination of restriction categories and cartesian differential categories is impossible.
+"We combine two recent ideas: cartesian differential categories, and restriction categories.",Cartesian differential categories and restriction categories re concepts in categorical logic.
+The category of Set-valued presheaves on a small category B is a topos.,The category of Set-valued presheaves on a small category C is a topos.
+The category of Set-valued presheaves on a small category B is a topos.,There exists a small category C such that the category of Set-valued presheaves on C is not a topos.
+The category of Set-valued presheaves on a small category B is a topos.,The category of Set-valued presheaves on a category B is a topos.
+A flow on a compact Hausdorff space is an automorphism.,A flow on a compact Hausdorff space is an endomorphism.
+A flow on a compact Hausdorff space is an automorphism.,No flow on a compact Hausdorff space is an automorphism.
+A flow on a compact Hausdorff space is an automorphism.,A flow on a Hausdorff space is an automorphism
+Vertical arrows give rise to modules between representables.,Some arrows give rise to modules between representables.
+Vertical arrows give rise to modules between representables.,Modules between representables have no interaction with vertical arrows.
+Vertical arrows give rise to modules between representables.,Horizontal arrows give rise to modules between representables.
+Various concerns suggest looking for internal co-categories in categories with strong logical structure.,We looked for internal co-categories with strong logical structure.
+Various concerns suggest looking for internal co-categories in categories with strong logical structure.,We abandon the idea of looking for internal co-categories in categories with a strong logical structure.
+Various concerns suggest looking for internal co-categories in categories with strong logical structure.,We suggest looking for internal co-categories.
+We give a new proof of the fact that every topos is adhesive.,We give a proof that each topos is adhesive.
+We give a new proof of the fact that every topos is adhesive.,We give a new proof that every topos is non-adhesive.
+We give a new proof of the fact that every topos is adhesive.,The old proof of the fact that every topos is adhesive had gaps.
+"We compare various different definitions of ""the category of smooth objects"".","We have several definitions of ""the category of smooth objects""."
+"We compare various different definitions of ""the category of smooth objects"".","No one has given a definition of ""the category of smooth objects""."
+"We compare various different definitions of ""the category of smooth objects"".","No one has given a definition of ""the bicategory of smooth objects""."
+We indicate also some possible novel geometric interest in such algebras.,We suggest some novel geometric interest in such algebras.
+We indicate also some possible novel geometric interest in such algebras.,We fail to see any possible geometric interest in such algebras.
+We indicate also some possible novel geometric interest in such algebras.,We suggest some novel geometric interest in such coalgebras.
+"In this paper we will give a new, elementary proof of this result.",We give a proof of this result.
+"In this paper we will give a new, elementary proof of this result.","In this paper we give the old, original proof of this result."
+"In this paper we will give a new, elementary proof of this result.",In this paper we will give a number=theoretic proof of this result.
+We clarify details of that work.,We provide details of that work.
+We clarify details of that work.,That work cannot be clarified.
+We clarify details of that work.,We give details of a special case of that work.
+Our main conceptual tool is a monad on the category of grouped toposes.,We use as a conceptual tool a monad on the category of grouped toposes.
+Our main conceptual tool is a monad on the category of grouped toposes.,We do not have a conceptual tool for this problem.
+Our main conceptual tool is a monad on the category of grouped toposes.,We present a topos-theoretic investigation of isotropy and the Clifford sequence.
+We also discuss some new examples and results motivated by this characterization.,We discuss this characterization.
+We also discuss some new examples and results motivated by this characterization.,We refrain from discussing examples and results motivated by this characterization.
+We also discuss some new examples and results motivated by this characterization.,We also discuss new functors motivated by this characterization.
+It also gives an easy way to calculate the sources and targets of opetopes.,This gives a way to calculate the sources of opetopes.
+It also gives an easy way to calculate the sources and targets of opetopes,This gives a hard way to calculate the sources and targets of opetopes.
+It also gives an easy way to calculate the sources and targets of opetopes,It also gives an easy way to calculate the sources and targets of polytopes.
